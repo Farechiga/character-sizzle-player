@@ -14,6 +14,7 @@ uses repository secrets.
 - Mozart and Da Ponte, `Cosi fan tutte`
 - Walt Disney Productions, `The Parent Trap`
 - Ray Ashley, Morris Engel, and Ruth Orkin, `Little Fugitive`
+- Jean Dauberval and Frederick Ashton, `La Fille mal gardee`
 
 ## Local Preview
 
@@ -32,6 +33,7 @@ The web player expects:
 - `audio/cosi-fan-tutte.mp3`
 - `audio/parent-trap-1961.mp3`
 - `audio/little-fugitive-1953.mp3`
+- `audio/la-fille-mal-gardee.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.

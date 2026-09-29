@@ -11,7 +11,8 @@
     "audio:two-cities": "node scripts/generate-audio.mjs --story tale-of-two-cities",
     "audio:cosi": "node scripts/generate-audio.mjs --story cosi-fan-tutte",
     "audio:parent-trap": "node scripts/generate-audio.mjs --story parent-trap-1961",
-    "audio:little-fugitive": "node scripts/generate-audio.mjs --story little-fugitive-1953"
+    "audio:little-fugitive": "node scripts/generate-audio.mjs --story little-fugitive-1953",
+    "audio:fille": "node scripts/generate-audio.mjs --story la-fille-mal-gardee"
   },
   "engines": {
     "node": ">=20"

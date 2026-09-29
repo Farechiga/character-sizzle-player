@@ -15,6 +15,7 @@ on:
           - cosi-fan-tutte
           - parent-trap-1961
           - little-fugitive-1953
+          - la-fille-mal-gardee
       voice_id:
         description: ElevenLabs voice ID
         required: true
