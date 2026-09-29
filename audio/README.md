@@ -12,6 +12,7 @@ Expected files:
 - `la-fille-mal-gardee.mp3`
 - `harlequinade.mp3`
 - `of-salt-and-shore.mp3`
+- `bateson-metalogues.mp3`
 
 Do not commit API keys or raw `.env` files. The browser should only receive the
 finished audio files.

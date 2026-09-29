@@ -18,6 +18,7 @@ on:
           - la-fille-mal-gardee
           - harlequinade
           - of-salt-and-shore
+          - bateson-metalogues
       voice_id:
         description: ElevenLabs voice ID
         required: true

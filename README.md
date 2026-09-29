@@ -17,6 +17,7 @@ uses repository secrets.
 - Jean Dauberval and Frederick Ashton, `La Fille mal gardee`
 - Marius Petipa and Riccardo Drigo, `Harlequinade`
 - Annet Schaap, `Of Salt and Shore`
+- Gregory Bateson, `Metalogues`
 
 ## Local Preview
 
@@ -38,6 +39,7 @@ The web player expects:
 - `audio/la-fille-mal-gardee.mp3`
 - `audio/harlequinade.mp3`
 - `audio/of-salt-and-shore.mp3`
+- `audio/bateson-metalogues.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.
