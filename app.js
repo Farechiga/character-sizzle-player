@@ -34,7 +34,7 @@ function selectStory(storyId) {
   audio.pause();
   audio.currentTime = 0;
   audio.src = selectedStory.audioSrc;
-  playButton.textContent = "Play";
+  setPlaybackState("play");
   playButton.disabled = false;
   statusLine.textContent = "";
 
@@ -65,20 +65,25 @@ async function togglePlayback() {
 
   if (!audio.paused) {
     audio.pause();
-    playButton.textContent = "Play";
+    setPlaybackState("play");
     statusLine.textContent = "Paused.";
     return;
   }
 
   try {
     await audio.play();
-    playButton.textContent = "Pause";
+    setPlaybackState("pause");
     statusLine.textContent = `Playing ${selectedStory.title}.`;
   } catch (error) {
-    playButton.textContent = "Play";
+    setPlaybackState("play");
     statusLine.textContent =
       "This recording has not been generated yet. Add the MP3 to the audio folder.";
   }
+}
+
+function setPlaybackState(state) {
+  playButton.dataset.state = state;
+  playButton.setAttribute("aria-label", state === "pause" ? "Pause selected story" : "Play selected story");
 }
 
 select.addEventListener("change", (event) => {
@@ -88,12 +93,12 @@ select.addEventListener("change", (event) => {
 playButton.addEventListener("click", togglePlayback);
 
 audio.addEventListener("ended", () => {
-  playButton.textContent = "Play";
+  setPlaybackState("play");
   statusLine.textContent = "Finished.";
 });
 
 audio.addEventListener("error", () => {
-  playButton.textContent = "Play";
+  setPlaybackState("play");
   statusLine.textContent =
     "This recording has not been generated yet. Add the MP3 to the audio folder.";
 });
@@ -102,4 +107,3 @@ loadStories().catch((error) => {
   playButton.disabled = true;
   statusLine.textContent = error.message;
 });
-

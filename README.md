@@ -11,6 +11,7 @@ uses repository secrets.
 
 - Charles Dickens, `A Christmas Carol`
 - Charles Dickens, `A Tale of Two Cities`
+- Mozart and Da Ponte, `Cosi fan tutte`
 
 ## Local Preview
 
@@ -26,6 +27,7 @@ The web player expects:
 
 - `audio/christmas-carol.mp3`
 - `audio/tale-of-two-cities.mp3`
+- `audio/cosi-fan-tutte.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.
@@ -34,8 +36,8 @@ the selected recording has not been generated yet.
 
 ### Local
 
-1. Copy `.env.example` to `.env`.
-2. Put your ElevenLabs key in `.env`.
+1. Open the local `.env` file.
+2. Put your ElevenLabs key after `ELEVENLABS_API_KEY=`.
 3. Run:
 
 ```bash
@@ -67,4 +69,3 @@ saved as MP3 and served as a static file by GitHub Pages.
 
 This repository is static. After pushing to GitHub, enable GitHub Pages from the
 repository's main branch and root folder.
-

@@ -8,10 +8,10 @@
     "validate": "node scripts/validate-stories.mjs",
     "audio:all": "node scripts/generate-audio.mjs --story all",
     "audio:christmas": "node scripts/generate-audio.mjs --story christmas-carol",
-    "audio:two-cities": "node scripts/generate-audio.mjs --story tale-of-two-cities"
+    "audio:two-cities": "node scripts/generate-audio.mjs --story tale-of-two-cities",
+    "audio:cosi": "node scripts/generate-audio.mjs --story cosi-fan-tutte"
   },
   "engines": {
     "node": ">=20"
   }
 }
-

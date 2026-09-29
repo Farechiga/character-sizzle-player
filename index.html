@@ -21,7 +21,9 @@
         <div class="controls">
           <label class="select-label" for="story-select">Story</label>
           <select id="story-select" class="story-select"></select>
-          <button id="play-button" class="play-button" type="button">Play</button>
+          <button id="play-button" class="play-button" type="button" aria-label="Play selected story">
+            <span class="play-symbol" aria-hidden="true"></span>
+          </button>
         </div>
 
         <audio id="audio-player" preload="none"></audio>
@@ -40,4 +42,3 @@
     <script src="app.js"></script>
   </body>
 </html>
-

@@ -12,6 +12,7 @@ on:
           - all
           - christmas-carol
           - tale-of-two-cities
+          - cosi-fan-tutte
       voice_id:
         description: ElevenLabs voice ID
         required: true
@@ -53,4 +54,3 @@ jobs:
             git commit -m "Generate narration audio"
             git push
           fi
-
