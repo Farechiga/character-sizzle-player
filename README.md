@@ -37,7 +37,8 @@ the selected recording has not been generated yet.
 ### Local
 
 1. Open the local `elevenlabs.local.env` file.
-2. Put your ElevenLabs key after `ELEVENLABS_API_KEY=`.
+2. Put your ElevenLabs secret key after `ELEVENLABS_API_KEY=`.
+   The value should start with `sk_`. Do not use the API key ID.
 3. Run:
 
 ```bash

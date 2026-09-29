@@ -18,6 +18,13 @@ if (!apiKey) {
   throw new Error("Missing ELEVENLABS_API_KEY. Add it to elevenlabs.local.env, .env, or GitHub Actions secrets.");
 }
 
+if (!apiKey.startsWith("sk_")) {
+  throw new Error(
+    "ELEVENLABS_API_KEY must be the secret API key value that starts with sk_. " +
+      "It looks like this file contains an API key ID instead. In ElevenLabs, create or rotate an API key and copy the sk_ value when it is shown."
+  );
+}
+
 const stories = JSON.parse(await readFile(new URL("../data/stories.json", import.meta.url), "utf8"));
 const selectedStories =
   storyArg === "all" ? stories : stories.filter((story) => story.id === storyArg);
