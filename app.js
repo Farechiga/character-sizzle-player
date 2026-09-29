@@ -2,7 +2,6 @@ const select = document.querySelector("#story-select");
 const playButton = document.querySelector("#play-button");
 const audio = document.querySelector("#audio-player");
 const statusLine = document.querySelector("#status");
-const storyKicker = document.querySelector("#story-kicker");
 const storyTitle = document.querySelector("#story-title");
 const storyFocus = document.querySelector("#story-focus");
 const script = document.querySelector("#script");
@@ -38,7 +37,6 @@ function selectStory(storyId) {
   playButton.disabled = false;
   statusLine.textContent = "";
 
-  storyKicker.textContent = `${selectedStory.author} / ${selectedStory.lengthLabel}`;
   storyTitle.textContent = selectedStory.title;
   storyFocus.textContent = selectedStory.focus;
   script.innerHTML = getScriptParagraphs(selectedStory)

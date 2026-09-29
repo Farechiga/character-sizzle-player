@@ -52,6 +52,38 @@ Risky:
 6. Story pressure arrives.
 7. End with the character question.
 
+## Preferred Length
+
+Yes: this formula works well with a 20-30% cut.
+
+For the web player, the strongest default target is about 210-250 spoken words.
+That is enough room for a doorway, a turn, and a question, without letting the
+piece become a plot summary.
+
+Use this tighter shape:
+
+1. Doorway: 2-3 sentences.
+2. Ordinary ache or attachment: 2-3 sentences.
+3. Change arrives: 1-2 sentences.
+4. Pressure and complication: 4-6 sentences.
+5. Final question: 1-2 sentences.
+
+Cut first:
+
+- repeated explanation
+- secondary plot mechanics
+- extra names
+- theme statements
+- anything the final question already implies
+
+Keep:
+
+- the first clear character image
+- one ordinary-world detail
+- the moment everything changes
+- the most emotionally charged complication
+- the final character question
+
 ## Tone
 
 Poetic, but plain.
@@ -62,4 +94,3 @@ Accessible, but not flat.
 
 Every image should help the listener picture a person before it asks them to
 understand a theme.
-
