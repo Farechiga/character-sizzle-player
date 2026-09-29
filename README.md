@@ -15,6 +15,8 @@ uses repository secrets.
 - Walt Disney Productions, `The Parent Trap`
 - Ray Ashley, Morris Engel, and Ruth Orkin, `Little Fugitive`
 - Jean Dauberval and Frederick Ashton, `La Fille mal gardee`
+- Marius Petipa and Riccardo Drigo, `Harlequinade`
+- Annet Schaap, `Of Salt and Shore`
 
 ## Local Preview
 
@@ -34,6 +36,8 @@ The web player expects:
 - `audio/parent-trap-1961.mp3`
 - `audio/little-fugitive-1953.mp3`
 - `audio/la-fille-mal-gardee.mp3`
+- `audio/harlequinade.mp3`
+- `audio/of-salt-and-shore.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.

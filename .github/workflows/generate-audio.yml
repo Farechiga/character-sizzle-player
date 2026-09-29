@@ -16,6 +16,8 @@ on:
           - parent-trap-1961
           - little-fugitive-1953
           - la-fille-mal-gardee
+          - harlequinade
+          - of-salt-and-shore
       voice_id:
         description: ElevenLabs voice ID
         required: true

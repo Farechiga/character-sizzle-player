@@ -137,5 +137,46 @@
       "She is a girl being watched by everyone, while quietly choosing for herself.",
       "The question is whether love, laughter, and a little mischief can loosen the lock on a future someone else has chosen."
     ]
+  },
+  {
+    "id": "harlequinade",
+    "title": "Harlequinade",
+    "author": "Marius Petipa / Riccardo Drigo",
+    "lengthLabel": "character intro",
+    "focus": "Columbine knows whom she loves, even when everyone around her tries to dance her toward someone else.",
+    "audioSrc": "audio/harlequinade.mp3",
+    "scriptParagraphs": [
+      "Columbine was a young woman in a painted little world where doors opened fast, masks smiled brightly, and everyone's business could turn into a dance.",
+      "She lived under the eye of her father, Cassandre, who believed love should be arranged neatly and paid for well.",
+      "He has chosen Leandre, a rich older suitor with manners, money, and no claim on Columbine's heart.",
+      "Columbine has chosen Harlequin.",
+      "Harlequin owns very little except courage, mischief, and the kind of joy that makes a room wake up. He loves Columbine with his whole quick, laughing self.",
+      "Cassandre locks doors. Pierrot is told to guard them. Leandre keeps arriving as if a wedding can be ordered like dinner.",
+      "But Columbine is not a prize to be handed across a room.",
+      "With Pierrette's help, with secret signals and sudden escapes, the lovers turn every rule into a chase and every chase into a dance.",
+      "Harlequinade is a bright comedy, but its heart is simple: a girl knows whom she loves, and the world keeps trying to speak louder than she does.",
+      "The question is whether laughter, nerve, and a little stage magic can free Columbine before her future is sold to the wrong man."
+    ]
+  },
+  {
+    "id": "of-salt-and-shore",
+    "title": "Of Salt and Shore",
+    "author": "Annet Schaap / Laura Watkinson",
+    "lengthLabel": "character intro",
+    "focus": "Lampie loses the light for one terrible night, then finds a secret no one in town knows how to love.",
+    "audioSrc": "audio/of-salt-and-shore.mp3",
+    "scriptParagraphs": [
+      "Emilia was a girl by the sea, but almost everyone called her Lampie.",
+      "She was the lighthouse keeper's daughter, small beside the waves and braver than she knew. Each night, she helped keep the lamp burning so ships would not break against the rocks.",
+      "Her mother was gone. Her father, Augustus, carried his grief like a storm inside the house. Sometimes Lampie had to be the steady one.",
+      "Then, one terrible night, the matches run out.",
+      "The light goes dark. A ship is wrecked. The town wants someone to blame.",
+      "Augustus is punished, and Lampie is sent away to work at the Admiral's Black House, a place people talk about in whispers.",
+      "They say a monster lives there.",
+      "But in the locked-away rooms of that house, Lampie finds Edward, a furious, lonely child the world has called Fish, monster, mistake.",
+      "Lampie cannot read yet, and she does not understand every secret around her. But she knows what it feels like to be frightened. She knows what it feels like to be blamed. She knows how to keep coming back.",
+      "Of Salt and Shore is a sea-dark fairy tale about two children treated as problems by the people who should have protected them.",
+      "The question is whether Lampie and Edward can learn to see each other clearly enough to become free."
+    ]
   }
 ]
