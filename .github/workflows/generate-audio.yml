@@ -13,6 +13,7 @@ on:
           - christmas-carol
           - tale-of-two-cities
           - cosi-fan-tutte
+          - parent-trap-1961
       voice_id:
         description: ElevenLabs voice ID
         required: true

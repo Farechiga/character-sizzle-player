@@ -12,6 +12,7 @@ uses repository secrets.
 - Charles Dickens, `A Christmas Carol`
 - Charles Dickens, `A Tale of Two Cities`
 - Mozart and Da Ponte, `Cosi fan tutte`
+- Walt Disney Productions, `The Parent Trap`
 
 ## Local Preview
 
@@ -28,6 +29,7 @@ The web player expects:
 - `audio/christmas-carol.mp3`
 - `audio/tale-of-two-cities.mp3`
 - `audio/cosi-fan-tutte.mp3`
+- `audio/parent-trap-1961.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.
