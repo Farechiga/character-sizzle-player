@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 
 const root = fileURLToPath(new URL("../", import.meta.url));
 
-loadDotEnv();
+loadLocalEnv();
 
 const args = parseArgs(process.argv.slice(2));
 const storyArg = args.story || "all";
@@ -15,7 +15,7 @@ const outputFormat = args.output || process.env.ELEVENLABS_OUTPUT_FORMAT || "mp3
 const apiKey = process.env.ELEVENLABS_API_KEY;
 
 if (!apiKey) {
-  throw new Error("Missing ELEVENLABS_API_KEY. Add it to .env or GitHub Actions secrets.");
+  throw new Error("Missing ELEVENLABS_API_KEY. Add it to elevenlabs.local.env, .env, or GitHub Actions secrets.");
 }
 
 const stories = JSON.parse(await readFile(new URL("../data/stories.json", import.meta.url), "utf8"));
@@ -85,10 +85,15 @@ function parseArgs(values) {
   return parsed;
 }
 
-function loadDotEnv() {
-  const envPath = `${root}.env`;
-  if (!existsSync(envPath)) return;
+function loadLocalEnv() {
+  for (const envFile of [".env", "elevenlabs.local.env"]) {
+    const envPath = `${root}${envFile}`;
+    if (!existsSync(envPath)) continue;
+    loadEnvFile(envPath);
+  }
+}
 
+function loadEnvFile(envPath) {
   const contents = readFileSync(envPath, "utf8");
   for (const line of contents.split(/\r?\n/)) {
     if (!line || line.trim().startsWith("#")) continue;

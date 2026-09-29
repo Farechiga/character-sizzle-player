@@ -36,7 +36,7 @@ the selected recording has not been generated yet.
 
 ### Local
 
-1. Open the local `.env` file.
+1. Open the local `elevenlabs.local.env` file.
 2. Put your ElevenLabs key after `ELEVENLABS_API_KEY=`.
 3. Run:
 
@@ -44,7 +44,7 @@ the selected recording has not been generated yet.
 npm run audio:all
 ```
 
-`.env` is ignored by git.
+`elevenlabs.local.env` and `.env` are both ignored by git.
 
 ### GitHub
 
