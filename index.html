@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Character-driven spoken introductions to classic stories."
+    >
+    <title>Character Sizzle Player</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="masthead" aria-labelledby="page-title">
+        <p class="eyebrow">Character Sizzle Player</p>
+        <h1 id="page-title">Classic stories, introduced through character.</h1>
+      </section>
+
+      <section class="player-panel" aria-label="Story player">
+        <div class="controls">
+          <label class="select-label" for="story-select">Story</label>
+          <select id="story-select" class="story-select"></select>
+          <button id="play-button" class="play-button" type="button">Play</button>
+        </div>
+
+        <audio id="audio-player" preload="none"></audio>
+
+        <p id="status" class="status" role="status" aria-live="polite"></p>
+      </section>
+
+      <section class="story-view" aria-labelledby="story-title">
+        <div class="story-kicker" id="story-kicker"></div>
+        <h2 id="story-title"></h2>
+        <p id="story-focus" class="focus-line"></p>
+        <div id="script" class="script"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+

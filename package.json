@@ -1,0 +1,17 @@
+{
+  "name": "character-sizzle-player",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "validate": "node scripts/validate-stories.mjs",
+    "audio:all": "node scripts/generate-audio.mjs --story all",
+    "audio:christmas": "node scripts/generate-audio.mjs --story christmas-carol",
+    "audio:two-cities": "node scripts/generate-audio.mjs --story tale-of-two-cities"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
