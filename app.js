@@ -41,10 +41,16 @@ function selectStory(storyId) {
   storyKicker.textContent = `${selectedStory.author} / ${selectedStory.lengthLabel}`;
   storyTitle.textContent = selectedStory.title;
   storyFocus.textContent = selectedStory.focus;
-  script.innerHTML = selectedStory.script
-    .split("\n\n")
+  script.innerHTML = getScriptParagraphs(selectedStory)
     .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
     .join("");
+}
+
+function getScriptParagraphs(story) {
+  if (Array.isArray(story.scriptParagraphs)) {
+    return story.scriptParagraphs;
+  }
+  return story.script.split("\n\n");
 }
 
 function escapeHtml(value) {

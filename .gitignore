@@ -1,5 +1,7 @@
 .env
 elevenlabs.local.env
 .DS_Store
+character-sizzle-player@*
+node
 node_modules/
 dist/

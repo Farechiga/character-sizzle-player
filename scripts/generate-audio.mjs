@@ -43,7 +43,7 @@ for (const story of selectedStories) {
     voiceId,
     modelId,
     outputFormat,
-    text: story.script
+    text: getStoryText(story)
   });
 
   await writeFile(audioPath, Buffer.from(audio));
@@ -90,6 +90,13 @@ function parseArgs(values) {
     index += 1;
   }
   return parsed;
+}
+
+function getStoryText(story) {
+  if (Array.isArray(story.scriptParagraphs)) {
+    return story.scriptParagraphs.join("\n\n");
+  }
+  return story.script;
 }
 
 function loadLocalEnv() {

@@ -4,26 +4,69 @@
     "title": "A Christmas Carol",
     "author": "Charles Dickens",
     "lengthLabel": "character intro",
-    "focus": "Ebenezer Scrooge has made himself safe by making himself small.",
+    "focus": "Ebenezer Scrooge lives among ledgers, locks, and one very cold heart.",
     "audioSrc": "audio/christmas-carol.mp3",
-    "script": "Ebenezer Scrooge knows the price of everything around him.\n\nA candle. A coal. A clerk's hour. A poor man's debt.\n\nNumbers comfort him because numbers do not ask for kindness. They do not invite themselves to dinner. They do not look cold in the street and make him wonder what he owes another person.\n\nScrooge has built a life with narrow doors. He keeps Christmas outside. He keeps his nephew's cheer outside. He keeps Bob Cratchit's warmth on the other side of the desk, where it can be counted, limited, and sent home in the dark.\n\nHe thinks this is strength.\n\nThen, one Christmas Eve, the dead come knocking.\n\nFirst comes Marley, his old business partner, dragging the chain he made link by link while he was alive. Then come the spirits: one with memory in its hand, one with the bright noise of the present, and one who points toward a future no one wants to name.\n\nThey do not ask Scrooge to believe in Christmas.\n\nThey ask him to look.\n\nAt the boy he used to be. At the people still trying to love him. At the child in the Cratchit house whose small body carries more grace than Scrooge has allowed into his whole hard life.\n\nAnd finally, at the lonely end waiting for a man no one misses.\n\nA Christmas Carol is not only the story of a cruel man becoming generous. It is the story of a man discovering that his heart is not dead yet.\n\nThe question is whether he can open the door before morning."
+    "scriptParagraphs": [
+      "Ebenezer Scrooge was an old businessman in London, the kind of man children knew to avoid and clerks learned to answer quickly.",
+      "He spent his days among ledgers, locks, and rooms that felt colder than they needed to be. Money made sense to him. People were messier. Christmas was the messiest thing of all.",
+      "There had been gentler days once. A sister who loved him. A sweetheart who waited. A younger Scrooge who still knew how to look up from his work and see another human face.",
+      "But by the time our story begins, Scrooge has made himself safe by making himself small. He keeps his nephew's cheer outside the door. He keeps Bob Cratchit's warmth on the far side of the desk. He keeps the poor at a distance, where they can be counted instead of known.",
+      "He thinks this is strength.",
+      "Then, one Christmas Eve, the dead come knocking.",
+      "First comes Marley, his old business partner, carrying the chain he made link by link while he was alive. Then come three spirits: one with memory in its hand, one with the bright noise of the present, and one who points toward a future no one wants to name.",
+      "They do not ask Scrooge to enjoy Christmas.",
+      "They ask him to look.",
+      "At the boy he used to be. At the people still trying to love him. At the small, fragile child in the Cratchit house whose kindness is stronger than Scrooge's coldness.",
+      "A Christmas Carol is the story of a man who has almost forgotten how to belong to anyone.",
+      "The question is whether one night is enough to open a heart he has spent a lifetime locking shut."
+    ]
   },
   {
     "id": "tale-of-two-cities",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
     "lengthLabel": "character intro",
-    "focus": "Lucie Manette begins with an empty place where her father should be.",
+    "focus": "Lucie Manette grows up with a quiet life and one father-shaped absence.",
     "audioSrc": "audio/tale-of-two-cities.mp3",
-    "script": "Lucie Manette grows up with an empty place where her father should be.\n\nShe has a name, a memory, and a story that feels more like a locked room than a life. Then the room opens. Her father is alive, but prison has not simply kept him away. It has changed the sound of his mind.\n\nLucie does not meet a rescued hero. She meets a wounded man who has almost forgotten how to be a father.\n\nSo she becomes a light he can follow.\n\nAround her, the world is anything but gentle. London watches. Paris waits. Old cruelty has filled the streets with anger, and that anger is beginning to move like fire.\n\nCharles Darnay wants to escape the shadow of the family he was born into. He wants a clean life, a loving home, and a future not poisoned by his name.\n\nSydney Carton wants almost nothing, or says he does. He is brilliant, careless, and tired of himself. Then he sees Lucie, and for one painful moment, he sees the better man he might have been.\n\nA Tale of Two Cities moves between private love and public fury. A daughter tries to restore her father. A husband tries to outrun his inheritance. A wasted man discovers that love can ask for more than admiration.\n\nAnd while they hope, history sharpens its blade.\n\nThis is a story about people trying to keep a small circle of tenderness alive while a whole country breaks open around them.\n\nThe question is not only who will survive the revolution.\n\nIt is who love might call someone to become before the end."
+    "scriptParagraphs": [
+      "Lucie Manette was a young woman in London with golden hair, a gentle voice, and an empty place where her father should have been.",
+      "She had grown up with care around her, but also with silence. Her father was spoken of like someone lost beyond reach. Not absent for a little while. Gone.",
+      "Then, one day, a banker named Mr. Lorry brings impossible news.",
+      "Lucie's father is alive.",
+      "He has been hidden away in a French prison for so long that freedom does not know how to find him all at once. When Lucie meets him, she does not meet the father of her dreams. She meets a wounded man who has almost forgotten his own name.",
+      "So Lucie becomes something more than a daughter. She becomes a light he can follow back into the world.",
+      "Around her, the world is growing sharper. London watches. Paris waits. In France, old cruelty has filled the streets with anger, and that anger is beginning to move like fire.",
+      "Charles Darnay wants to escape the shadow of the family he was born into. He wants a clean life, a loving home, and a future not poisoned by his name.",
+      "Sydney Carton wants almost nothing, or says he does. He is brilliant, careless, and tired of himself. Then he sees Lucie, and for one painful moment, he sees the better man he might have been.",
+      "A Tale of Two Cities begins with a daughter trying to save one broken man.",
+      "But soon, love is standing in the path of history.",
+      "The question is not only who will survive the revolution. It is who love might call someone to become before the end."
+    ]
   },
   {
     "id": "cosi-fan-tutte",
     "title": "Cosi fan tutte",
     "author": "Wolfgang Amadeus Mozart / Lorenzo Da Ponte",
     "lengthLabel": "character intro",
-    "focus": "Dorabella and Fiordiligi think they know where their hearts belong.",
+    "focus": "Two sisters in Naples think love has already chosen its path.",
     "audioSrc": "audio/cosi-fan-tutte.mp3",
-    "script": "Dorabella believes she knows the shape of her own heart.\n\nIt belongs to Ferrando: his letters, his voice, the future she has already imagined with him. She wants love to feel grand and unmistakable. She wants the ache of missing him to prove how deeply she loves.\n\nHer sister Fiordiligi wants something steadier.\n\nShe loves Guglielmo, but she also loves the promise itself: the clear yes, the held line, the proud thought that her word will not bend just because life pushes on it.\n\nFor both sisters, the future seems named, paired, and waiting.\n\nThen the men are called away to war.\n\nAt least, that is what the sisters are told.\n\nDorabella and Fiordiligi think they are living through a painful goodbye. They do not know Don Alfonso has turned their love into a wager. They do not know the men will come back wearing false faces. They do not know their own hearts are about to be watched like evidence.\n\nSoon, two strangers arrive.\n\nThey are bold. They are flattering. They are much too interested. And because this is a comedy, we can see what the sisters cannot: the strangers are the missing men in disguise.\n\nBut the joke does not stay simple.\n\nDorabella, who thought devotion would feel like waiting, discovers that being noticed can feel like sunlight.\n\nFiordiligi, who wants her promise to stand like stone, hears music finding every crack.\n\nAnd Despina, their quick-eyed maid, is not shocked by any of it. She has seen enough love to know where the trapdoors are, and she is perfectly willing to open one.\n\nMeanwhile, Ferrando and Guglielmo learn the cruelest part of their own game. They wanted proof. They did not expect the proof to have a pulse.\n\nCosi fan tutte begins with two women waiting for love to return exactly as it left.\n\nInstead, love comes back in disguise.\n\nAnd once it starts asking new questions, no one can return to being quite as sure as before."
+    "scriptParagraphs": [
+      "Dorabella was a young woman in Naples who felt everything quickly.",
+      "She lived with her sister Fiordiligi, who was steadier, prouder, and much harder to move. The sisters had different hearts, but they shared the same bright certainty: love had already chosen its path.",
+      "Dorabella loved Ferrando. She liked love to feel grand and unmistakable: letters, sighs, reunions, the sweet ache of missing someone and knowing he missed her too.",
+      "Fiordiligi loved Guglielmo. But she also loved the promise itself: the clear yes, the held line, the proud thought that her word would not bend just because life pushed on it.",
+      "For both sisters, the future seemed named, paired, and waiting.",
+      "Then the men are called away to war.",
+      "At least, that is what the sisters are told.",
+      "Dorabella and Fiordiligi think they are living through a painful goodbye. They do not know Don Alfonso has turned their love into a wager. They do not know the men will come back wearing false faces. They do not know their own hearts are about to be watched like evidence.",
+      "Soon, two strangers arrive.",
+      "They are bold. They are flattering. They are much too interested. And because this is a comedy, we can see what the sisters cannot: the strangers are the missing men in disguise.",
+      "But the joke does not stay simple.",
+      "Dorabella, who thought devotion would feel like waiting, discovers that being noticed can feel like sunlight.",
+      "Fiordiligi, who wants her promise to stand like stone, hears music finding every crack.",
+      "And Despina, their quick-eyed maid, is not shocked by any of it. She has seen enough love to know where the trapdoors are, and she is perfectly willing to open one.",
+      "Cosi fan tutte begins with two women waiting for love to return exactly as it left.",
+      "Instead, love comes back in disguise."
+    ]
   }
 ]
