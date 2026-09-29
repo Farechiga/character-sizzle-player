@@ -14,6 +14,7 @@ on:
           - tale-of-two-cities
           - cosi-fan-tutte
           - parent-trap-1961
+          - little-fugitive-1953
       voice_id:
         description: ElevenLabs voice ID
         required: true
