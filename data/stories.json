@@ -310,5 +310,160 @@
         "note": "Used for award/source grounding."
       }
     ]
+  },
+  {
+    "id": "warriors-into-the-wild",
+    "title": "Warriors: Into the Wild",
+    "author": "Erin Hunter",
+    "lengthLabel": "dialogue intro",
+    "focus": "Rusty has food, warmth, and a name. Then the forest calls him to become Firepaw.",
+    "audioSrc": "audio/warriors-into-the-wild.mp3",
+    "scriptParagraphs": [
+      "Audrey likes to ask who made the rules. Paxten listens for the pull of a place no one can explain. Today, they are entering Warriors: Into the Wild, the first Warriors story.",
+      "Rusty begins as a housecat with a food bowl, a warm home, and a safe little world. But safe can sometimes feel small.",
+      "Beyond the edge of his owner's garden waits the forest: not empty, not gentle, and not his.",
+      "There, Rusty meets ThunderClan, one of four wild cat clans living by patrols, apprentices, territory, and a warrior code older than any one cat.",
+      "Bluestar, the leader of ThunderClan, sees something in Rusty: courage, speed, and a bright stubborn spark. She offers him a place among them.",
+      "Rusty becomes Firepaw. A new name. A new den. A new life where every pawstep has to be earned.",
+      "But belonging does not arrive all at once. Some cats see courage. Some see an outsider. Some watch him as if one soft life might have made his heart too soft too.",
+      "Meanwhile, ThunderClan is in danger. ShadowClan is growing stronger, the warrior code is under strain, and not every threat comes from outside camp.",
+      "Warriors begins with a simple question: what happens when a comfortable child hears the wild calling?",
+      "But the deeper question is harder: can Firepaw learn the rules of this fierce new world without losing the part of himself that made him brave enough to enter it?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Audrey likes to ask who made the rules. Paxten listens for the pull of a place no one can explain. Today, they are entering Warriors: Into the Wild, the first Warriors story.",
+        "audioText": "[warmly] Audrey likes to ask who made the rules. Paxten listens for the pull of a place no one can explain. Today, they are entering Warriors: Into the Wild, the first Warriors story."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "The one with the clans? I have heard there are rules. Quite a lot of rules.",
+        "audioText": "[bright, precise] The one with the clans? I have heard there are rules. Quite a lot of rules."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Rusty begins as a housecat with a food bowl, a warm home, and a safe little world."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "But safe can sometimes feel small.",
+        "audioText": "[softly] But safe can sometimes feel small."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Rusty has comfort, but something in him keeps looking past the edge of his owner's garden."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So he crosses a border he has been very clearly expected not to cross.",
+        "audioText": "[incredulous] So he crosses a border he has been very clearly expected not to cross."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Beyond that border waits the forest: not empty, not gentle, and not his."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds frightening. And also a little like being invited by the dark.",
+        "audioText": "[wondering] That sounds frightening. And also a little like being invited by the dark."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In the forest, Rusty meets ThunderClan, one of four wild cat clans living by patrols, apprentices, territory, and a warrior code older than any one cat."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Ah. So not just adventure. A whole society, with borders, jobs, ranks, and consequences.",
+        "audioText": "[quickly, delighted] Ah. So not just adventure. A whole society, with borders, jobs, ranks, and consequences."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Bluestar, the leader of ThunderClan, sees something in Rusty: courage, speed, and a bright stubborn spark. She offers him a place among them."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "A place can be a gift. Or a test.",
+        "audioText": "[quietly] A place can be a gift. Or a test."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Both. Rusty becomes Firepaw. A new name. A new den. A new life where every pawstep has to be earned."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "But do they actually accept him? Or do they just give him a uniform and watch for mistakes?",
+        "audioText": "[sharply curious] But do they actually accept him? Or do they just give him a uniform and watch for mistakes?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the bite of it. Some cats see courage. Some see an outsider. Some watch him as if one soft life might have made his heart too soft too."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So he has to prove he belongs, but maybe he also has to decide what belonging should cost.",
+        "audioText": "[thoughtful] So he has to prove he belongs, but maybe he also has to decide what belonging should cost."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Meanwhile, ThunderClan itself is in danger. ShadowClan is growing stronger, the warrior code is under strain, and not every threat comes from outside camp."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Now that is interesting. The question is not only, can Firepaw survive the wild? It is, can he learn the rules before the rules close around him?",
+        "audioText": "[precise, excited] Now that is interesting. The question is not only, can Firepaw survive the wild? It is, can he learn the rules before the rules close around him?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Warriors begins with a comfortable child hearing the wild call his name."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "And maybe the wild does not just ask him to be stronger. Maybe it asks him to be truer.",
+        "audioText": "[soft wonder] And maybe the wild does not just ask him to be stronger. Maybe it asks him to be truer."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question is whether Firepaw can enter a fierce new world without losing the spark that made him brave enough to cross the border in the first place."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Warrior Cats, Into the Wild",
+        "url": "https://warriorcats.com/books/into-the-wild",
+        "note": "Used for the core premise: four Clans, Rusty, ThunderClan danger, ShadowClan, and the threatened warrior code."
+      },
+      {
+        "label": "HarperCollins Children's Books, Warriors: Into the Wild",
+        "url": "https://harpercollinschildrensbooks.co.uk/products/into-the-wild-warriors-book-1-erin-hunter-9780007217878/",
+        "note": "Used for the setup of Rusty leaving the twoleg world, joining ThunderClan, becoming Firepaw, and learning clan laws."
+      },
+      {
+        "label": "Publishers Weekly review, Into the Wild",
+        "url": "https://www.publishersweekly.com/978-0-06-000002-8",
+        "note": "Used for review context on the first Warriors installment and its themes of family, friendship, and responsibility."
+      }
+    ]
   }
 ]

@@ -12,6 +12,7 @@ Expected files:
 - `of-salt-and-shore.mp3`
 - `bateson-metalogues.mp3`
 - `mixed-up-files-frankweiler.mp3`
+- `warriors-into-the-wild.mp3`
 - `natural-experiments/korea-japan-christianity.mp3`
 
 Do not commit API keys or raw `.env` files. The browser should only receive the

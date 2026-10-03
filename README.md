@@ -19,6 +19,7 @@ secrets.
 - Annet Schaap, `Of Salt and Shore`
 - Gregory Bateson, `Metalogues`
 - E. L. Konigsburg, `From the Mixed-Up Files of Mrs. Basil E. Frankweiler`
+- Erin Hunter, `Warriors: Into the Wild`
 
 ## Natural Experiments Included
 
@@ -44,6 +45,7 @@ The web player expects:
 - `audio/of-salt-and-shore.mp3`
 - `audio/bateson-metalogues.mp3`
 - `audio/mixed-up-files-frankweiler.mp3`
+- `audio/warriors-into-the-wild.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 
 Until those files exist, the page still shows the scripts and will report that

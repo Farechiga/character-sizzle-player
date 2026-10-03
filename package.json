@@ -15,6 +15,7 @@
     "audio:salt-shore": "node scripts/generate-audio.mjs --story of-salt-and-shore",
     "audio:metalogues": "node scripts/generate-audio.mjs --story bateson-metalogues",
     "audio:mixed-up-files": "node scripts/generate-audio.mjs --story mixed-up-files-frankweiler",
+    "audio:warriors": "node scripts/generate-audio.mjs --story warriors-into-the-wild",
     "audio:natural:all": "node scripts/generate-audio.mjs --collection natural-experiments --story all",
     "audio:korea-japan-christianity": "node scripts/generate-audio.mjs --collection natural-experiments --story korea-japan-christianity"
   },
