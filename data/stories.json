@@ -624,5 +624,145 @@
         "note": "Used for review context on the first Warriors installment and its themes of family, friendship, and responsibility."
       }
     ]
+  },
+  {
+    "id": "percy-jackson-lightning-thief",
+    "title": "Percy Jackson and the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "lengthLabel": "dialogue intro",
+    "focus": "Percy has been told he is the problem. Then the mythological world suggests he may have been reading the wrong map of himself.",
+    "audioSrc": "audio/percy-jackson-lightning-thief.mp3",
+    "scriptParagraphs": [
+      "Percy Jackson is twelve, and by the time The Lightning Thief begins, adults have already given him a label: problem.",
+      "He has ADHD and dyslexia. He has been blamed, watched, and moved from school to school. Strange things happen around him, and somehow Percy is the one who ends up in trouble.",
+      "But what if the things that make school hard are not proof that Percy is broken? What if they are clues that he belongs to a hidden world?",
+      "Rick Riordan had been a middle-school teacher, and Percy began in bedtime stories he made for his son. That matters. The book is not only about Greek myths coming alive. It is about a kid discovering that he has been misread.",
+      "Soon Percy learns that the gods of Olympus are not safely trapped in old stories. His best friend Grover knows more than he has been saying. Camp Half-Blood is real. Annabeth, a daughter of Athena, is real. Monsters are real. And so is the danger.",
+      "Zeus's master bolt has been stolen, and Percy is thrown into a quest across the United States to find the thief before the gods go to war.",
+      "The Lightning Thief asks a delicious question: what if the world that called you difficult was simply too small to understand what you were built for?",
+      "The deeper question is whether Percy can become a hero without losing the angry, loyal, funny kid who needed someone to believe him first."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Percy Jackson is twelve, and by the time The Lightning Thief begins, adults have already given him a label: problem."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Problem is a very lazy label. What, exactly, is he supposed to have done?",
+        "audioText": "[crisp, immediately engaged] Problem is a very lazy label. What, exactly, is he supposed to have done?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "He has ADHD and dyslexia. He has been blamed, watched, and moved from school to school. Strange things happen around him, and somehow Percy is the one who ends up in trouble."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds lonely. Like everyone is reading him in the wrong language.",
+        "audioText": "[softly] That sounds lonely. Like everyone is reading him in the wrong language."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. And here is the spark: what if the things that make school hard are not proof that Percy is broken? What if they are clues that he belongs to a hidden world?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the book is not just saying, Greek myths are real. It is saying Percy has been misdiagnosed by ordinary life.",
+        "audioText": "[quick, fascinated] So the book is not just saying, Greek myths are real. It is saying Percy has been misdiagnosed by ordinary life."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Rick Riordan had been a middle-school teacher, and Percy began in bedtime stories he made for his son. That matters. This is a fantasy built around a kid who has been misunderstood."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the magic starts with being seen differently.",
+        "audioText": "[warmly] So the magic starts with being seen differently."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then Percy's world cracks open. The gods of Olympus are not safely trapped in old stories. His best friend Grover knows more than he has been saying. Camp Half-Blood is real."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I would like to pause on that. A camp for children of gods suggests several safety forms were probably not signed.",
+        "audioText": "[prim, delighted] I would like to pause on that. A camp for children of gods suggests several safety forms were probably not signed."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Quite right. Annabeth, a daughter of Athena, is real. Monsters are real. And so is the danger."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That changes every old story. The myths are not over. They are still walking around.",
+        "audioText": "[hushed, wondering] That changes every old story. The myths are not over. They are still walking around."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And now Zeus's master bolt has been stolen. Percy is thrown into a quest across the United States to find the thief before the gods go to war."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Twelve years old, recently informed he is not normal, and immediately assigned a cross-country crisis. That is a lot of onboarding.",
+        "audioText": "[incredulous] Twelve years old, recently informed he is not normal, and immediately assigned a cross-country crisis. That is a lot of onboarding."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. But Percy's strength is not that he suddenly becomes polished. He stays angry, loyal, funny, impulsive, and fiercely attached to the people he loves."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Maybe that is the heart of it. He does not become a hero by becoming easier.",
+        "audioText": "[thoughtful] Maybe that is the heart of it. He does not become a hero by becoming easier."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The Lightning Thief asks a delicious question: what if the world that called you difficult was simply too small to understand what you were built for?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The deeper question is whether Percy can become a hero without losing the kid who needed someone to believe him first."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rick Riordan, The Lightning Thief",
+        "url": "https://rickriordan.com/book/the-lightning-thief/",
+        "note": "Used for the official premise: twelve-year-old Percy, Grover, Annabeth, Zeus's master bolt, and the cross-country quest."
+      },
+      {
+        "label": "Rick Riordan, Frequently Asked Questions",
+        "url": "https://rickriordan.com/about/frequently-asked-questions/",
+        "note": "Used for the origin of Percy as a bedtime story for Riordan's son Haley and the quest to recover Zeus's lightning bolt."
+      },
+      {
+        "label": "Rick Riordan, The Lightning Thief Rationale",
+        "url": "https://rickriordan.com/resource/the-lightning-thief-rationale-incomplete/",
+        "note": "Used for Percy's ADHD, dyslexia, school trouble, and Riordan's middle-school teaching background."
+      },
+      {
+        "label": "Penguin Random House, The Lightning Thief",
+        "url": "https://www.penguinrandomhouse.com/books/727674/percy-jackson-and-the-olympians-book-one-the-lightning-thief-by-rick-riordan/",
+        "note": "Used for publisher context and series identification."
+      }
+    ]
   }
 ]

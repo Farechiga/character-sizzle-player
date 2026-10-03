@@ -28,6 +28,7 @@ on:
           - bateson-metalogues
           - mixed-up-files-frankweiler
           - warriors-into-the-wild
+          - percy-jackson-lightning-thief
           - korea-japan-christianity
       voice_id:
         description: ElevenLabs voice ID

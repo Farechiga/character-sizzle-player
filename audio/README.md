@@ -13,6 +13,7 @@ Expected files:
 - `bateson-metalogues.mp3`
 - `mixed-up-files-frankweiler.mp3`
 - `warriors-into-the-wild.mp3`
+- `percy-jackson-lightning-thief.mp3`
 - `natural-experiments/korea-japan-christianity.mp3`
 
 Do not commit API keys or raw `.env` files. The browser should only receive the

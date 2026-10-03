@@ -20,6 +20,7 @@ secrets.
 - Gregory Bateson, `Metalogues`
 - E. L. Konigsburg, `From the Mixed-Up Files of Mrs. Basil E. Frankweiler`
 - Erin Hunter, `Warriors: Into the Wild`
+- Rick Riordan, `Percy Jackson and the Olympians: The Lightning Thief`
 
 ## Natural Experiments Included
 
@@ -46,6 +47,7 @@ The web player expects:
 - `audio/bateson-metalogues.mp3`
 - `audio/mixed-up-files-frankweiler.mp3`
 - `audio/warriors-into-the-wild.mp3`
+- `audio/percy-jackson-lightning-thief.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
