@@ -3,22 +3,164 @@
     "id": "christmas-carol",
     "title": "A Christmas Carol",
     "author": "Charles Dickens",
-    "lengthLabel": "character intro",
-    "focus": "Ebenezer Scrooge lives among ledgers, locks, and one very cold heart.",
+    "lengthLabel": "dialogue intro",
+    "focus": "Dickens turns Christmas into an emergency visit for a man who has made himself unreachable.",
     "audioSrc": "audio/christmas-carol.mp3",
     "scriptParagraphs": [
-      "Ebenezer Scrooge was an old businessman in London, the kind of man children knew to avoid and clerks learned to answer quickly.",
-      "He spent his days among ledgers, locks, and rooms that felt colder than they needed to be. Money made sense to him. People were messier. Christmas was the messiest thing of all.",
-      "There had been gentler days once. A sister who loved him. A sweetheart who waited. A younger Scrooge who still knew how to look up from his work and see another human face.",
-      "But by the time our story begins, Scrooge has made himself safe by making himself small. He keeps his nephew's cheer outside the door. He keeps Bob Cratchit's warmth on the far side of the desk. He keeps the poor at a distance, where they can be counted instead of known.",
-      "He thinks this is strength.",
-      "Then, one Christmas Eve, the dead come knocking.",
-      "First comes Marley, his old business partner, carrying the chain he made link by link while he was alive. Then come three spirits: one with memory in its hand, one with the bright noise of the present, and one who points toward a future no one wants to name.",
-      "They do not ask Scrooge to enjoy Christmas.",
-      "They ask him to look.",
-      "At the boy he used to be. At the people still trying to love him. At the small, fragile child in the Cratchit house whose kindness is stronger than Scrooge's coldness.",
-      "A Christmas Carol is the story of a man who has almost forgotten how to belong to anyone.",
-      "The question is whether one night is enough to open a heart he has spent a lifetime locking shut."
+      "A Christmas Carol sounds, at first, like the safest story in the world: snow, candles, dinner, songs, and a happy Christmas morning.",
+      "But Dickens builds it like an emergency. One night. One locked heart. One man running out of chances.",
+      "Ebenezer Scrooge is rich, old, and almost impossible to reach. He understands ledgers, debts, locks, and bargains. People are harder. Christmas is worst of all, because Christmas asks people to belong to one another.",
+      "Scrooge has trained himself not to belong. He keeps his nephew's warmth outside the door. He keeps Bob Cratchit's family at a distance. He keeps the poor in a category where they can be dismissed instead of known.",
+      "Then Marley appears: Scrooge's dead business partner, dragging the chain he made link by link while he was alive.",
+      "After Marley come three spirits. Past does not argue; it shows Scrooge the boy he used to be. Present does not flatter; it shows him rooms full of life he has refused to enter. Future does not explain; it points toward a grave.",
+      "The story's sharpest question arrives in the Cratchit house, where Tiny Tim is fragile, loved, and not safe unless someone with power changes.",
+      "Dickens is not only asking whether Scrooge can become nicer. He is asking whether a person can be shocked back into relationship with the world.",
+      "The question is whether one night can open a heart that has spent a lifetime locking itself shut."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A Christmas Carol sounds, at first, like the safest story in the world: snow, candles, dinner, songs, and a happy Christmas morning."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That sounds pleasant. Almost suspiciously pleasant.",
+        "audioText": "[crisp, wary] That sounds pleasant. Almost suspiciously pleasant."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. Dickens builds it like an emergency. One night. One locked heart. One man running out of chances."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So Christmas is not decoration. It is pressure.",
+        "audioText": "[softly] So Christmas is not decoration. It is pressure."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Ebenezer Scrooge is rich, old, and almost impossible to reach. He understands ledgers, debts, locks, and bargains. People are harder."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "What has he actually done, besides being extremely unpleasant?",
+        "audioText": "[precise, skeptical] What has he actually done, besides being extremely unpleasant?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "He has trained himself not to belong. He keeps his nephew's warmth outside the door. He keeps Bob Cratchit's family at a distance. He keeps the poor in a category where they can be dismissed instead of known."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is colder than just being lonely. It is choosing not to be touched by anyone.",
+        "audioText": "[quietly] That is colder than just being lonely. It is choosing not to be touched by anyone."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. And then, on Christmas Eve, the dead come knocking."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A strong intervention strategy. Unusual, but difficult to ignore.",
+        "audioText": "[dryly intrigued] A strong intervention strategy. Unusual, but difficult to ignore."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "First comes Marley, Scrooge's old business partner, dragging the chain he made link by link while he was alive."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A chain made of choices. That is rather exact.",
+        "audioText": "[quietly impressed] A chain made of choices. That is rather exact."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then come three spirits. Past does not argue; it shows Scrooge the boy he used to be."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Oh. So before anyone can save him, he has to remember he was once softer.",
+        "audioText": "[soft wonder] Oh. So before anyone can save him, he has to remember he was once softer."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Present does not flatter; it shows him rooms full of life he has refused to enter."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Evidence, then. Not a lecture. Exhibit A: other people are real.",
+        "audioText": "[bright, precise] Evidence, then. Not a lecture. Exhibit A: other people are real."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And Future does not explain; it points toward a grave."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is frightening because it is quiet.",
+        "audioText": "[hushed] That is frightening because it is quiet."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "But the sharpest question may arrive in the Cratchit house, where Tiny Tim is fragile, loved, and not safe unless someone with power changes."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So this is not only about Scrooge's feelings. Other lives are attached to his choices.",
+        "audioText": "[firmly] So this is not only about Scrooge's feelings. Other lives are attached to his choices."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Dickens is not only asking whether Scrooge can become nicer. He is asking whether a person can be shocked back into relationship with the world."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Maybe the miracle is not Christmas magic. Maybe it is becoming reachable again.",
+        "audioText": "[gently] Maybe the miracle is not Christmas magic. Maybe it is becoming reachable again."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question is whether one night can open a heart that has spent a lifetime locking itself shut."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Project Gutenberg, A Christmas Carol",
+        "url": "https://www.gutenberg.org/ebooks/19337",
+        "note": "Used for the core text and plot structure: Marley, the three spirits, Scrooge, Bob Cratchit, and Tiny Tim."
+      },
+      {
+        "label": "British Library, The origins of A Christmas Carol",
+        "url": "https://www.britishlibrary.cn/en/articles/the-origins-of-a-christmas-carol/",
+        "note": "Used for the social context of the story, Dickens's concern with poverty and children, and the Christmas setting."
+      },
+      {
+        "label": "Charles Dickens Museum, A Christmas Carol in Victorian Britain",
+        "url": "https://dickensmuseum.com/en-de/blogs/learning-key-stage-four/exploring-a-christmas-carol-in-the-social-context-of-victorian-britain",
+        "note": "Used for the framing of Dickens using characters and themes to highlight social problems and inequalities in Victorian Britain."
+      }
     ]
   },
   {
