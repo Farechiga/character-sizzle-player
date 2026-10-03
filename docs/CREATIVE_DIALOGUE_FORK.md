@@ -140,6 +140,34 @@ for it. The test is interest density, not compliance.
 - Avoid bland reverence. Famous works still need a reason to matter.
 - Avoid summary drift. Every turn should either increase interest, clarify
   stakes, or deepen the question.
+- Apply the dilettante filter: cut any line that sounds clever but could not
+  be pictured by a smart ten-year-old.
+- Apply the painful college essay filter: avoid abstract theme slogans,
+  especially "not merely X, but Y" lines. Replace them with a concrete person,
+  object, choice, door, room, letter, promise, danger, or consequence.
+
+## Clean Poetry Test
+
+Paxten can be lyrical. The narrator can be elegant. But the language should
+stay timeless and visible.
+
+Good Paxten:
+
+> Maybe the miracle is not Christmas magic. Maybe it is hearing the knock and
+> opening the door.
+
+Too vague:
+
+> Maybe the miracle is the restoration of relationship.
+
+Good narrator:
+
+> Future says almost nothing. It shows a grave and the empty space a hard life
+> can leave behind.
+
+Too essayish:
+
+> Future externalizes the consequence of emotional isolation.
 
 ## Data Shape
 

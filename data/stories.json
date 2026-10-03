@@ -4,18 +4,18 @@
     "title": "A Christmas Carol",
     "author": "Charles Dickens",
     "lengthLabel": "dialogue intro",
-    "focus": "Dickens turns Christmas into an emergency visit for a man who has made himself unreachable.",
+    "focus": "Dickens turns Christmas Eve into a last chance for a man who has locked almost everyone out.",
     "audioSrc": "audio/christmas-carol.mp3",
     "scriptParagraphs": [
       "A Christmas Carol sounds, at first, like the safest story in the world: snow, candles, dinner, songs, and a happy Christmas morning.",
-      "But Dickens builds it like an emergency. One night. One locked heart. One man running out of chances.",
-      "Ebenezer Scrooge is rich, old, and almost impossible to reach. He understands ledgers, debts, locks, and bargains. People are harder. Christmas is worst of all, because Christmas asks people to belong to one another.",
-      "Scrooge has trained himself not to belong. He keeps his nephew's warmth outside the door. He keeps Bob Cratchit's family at a distance. He keeps the poor in a category where they can be dismissed instead of known.",
+      "But Dickens treats Christmas Eve like a warning bell. One night. One hard old man. One last chance before his life closes around him.",
+      "Ebenezer Scrooge is rich, old, and almost impossible to reach. He trusts ledgers, debts, locks, and bargains. People make demands. Christmas is troublesome because it keeps sending people to his door.",
+      "Scrooge has practiced saying no: no to his nephew's warmth, no to Bob Cratchit's comfort, and no to the poor except as a problem to be sent away.",
       "Then Marley appears: Scrooge's dead business partner, dragging the chain he made link by link while he was alive.",
-      "After Marley come three spirits. Past does not argue; it shows Scrooge the boy he used to be. Present does not flatter; it shows him rooms full of life he has refused to enter. Future does not explain; it points toward a grave.",
+      "After Marley come three spirits. Past does not argue; it shows Scrooge the lonely boy he used to be. Present opens warm rooms he chose not to enter. Future shows what is left if no one loves you when you are gone.",
       "The story's sharpest question arrives in the Cratchit house, where Tiny Tim is fragile, loved, and not safe unless someone with power changes.",
-      "Dickens is not only asking whether Scrooge can become nicer. He is asking whether a person can be shocked back into relationship with the world.",
-      "The question is whether one night can open a heart that has spent a lifetime locking itself shut."
+      "Dickens is not only asking whether Scrooge can become nicer. He is asking whether a man who has made himself hard can still learn to care while there is time.",
+      "The question is whether one night can teach Scrooge to open the door before it is too late."
     ],
     "dialogueSegments": [
       {
@@ -32,18 +32,18 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Exactly, Audrey. Dickens builds it like an emergency. One night. One locked heart. One man running out of chances."
+        "text": "Exactly, Audrey. Dickens builds it like a warning bell. One night. One hard old man. One last chance before his life closes around him."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "So Christmas is not decoration. It is pressure.",
-        "audioText": "[softly] So Christmas is not decoration. It is pressure."
+        "text": "So Christmas is not just the pretty part. It is the day that keeps knocking at his door.",
+        "audioText": "[softly] So Christmas is not just the pretty part. It is the day that keeps knocking at his door."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Ebenezer Scrooge is rich, old, and almost impossible to reach. He understands ledgers, debts, locks, and bargains. People are harder."
+        "text": "Beautifully put, Paxten. Ebenezer Scrooge is rich, old, and almost impossible to reach. He trusts ledgers, debts, locks, and bargains. People make demands."
       },
       {
         "role": "audrey",
@@ -54,13 +54,13 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "He has trained himself not to belong. He keeps his nephew's warmth outside the door. He keeps Bob Cratchit's family at a distance. He keeps the poor in a category where they can be dismissed instead of known."
+        "text": "He has practiced saying no: no to his nephew's warmth, no to Bob Cratchit's comfort, and no to the poor except as a problem to be sent away."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "That is colder than just being lonely. It is choosing not to be touched by anyone.",
-        "audioText": "[quietly] That is colder than just being lonely. It is choosing not to be touched by anyone."
+        "text": "That is colder than just being lonely. It is choosing a smaller and smaller life.",
+        "audioText": "[quietly] That is colder than just being lonely. It is choosing a smaller and smaller life."
       },
       {
         "role": "narrator",
@@ -87,18 +87,18 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Then come three spirits. Past does not argue; it shows Scrooge the boy he used to be."
+        "text": "Then come three spirits. Past does not argue; it shows Scrooge the lonely boy he used to be."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "Oh. So before anyone can save him, he has to remember he was once softer.",
-        "audioText": "[soft wonder] Oh. So before anyone can save him, he has to remember he was once softer."
+        "text": "Oh. So the first ghost does not start with blame. It starts with the child he left behind.",
+        "audioText": "[soft wonder] Oh. So the first ghost does not start with blame. It starts with the child he left behind."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Present does not flatter; it shows him rooms full of life he has refused to enter."
+        "text": "Present opens rooms full of warmth and noise, all the life Scrooge has refused to enter."
       },
       {
         "role": "audrey",
@@ -109,13 +109,13 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "And Future does not explain; it points toward a grave."
+        "text": "And Future says almost nothing. It shows a grave and the empty space a hard life can leave behind."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "That is frightening because it is quiet.",
-        "audioText": "[hushed] That is frightening because it is quiet."
+        "text": "That is frightening because no one has to shout.",
+        "audioText": "[hushed] That is frightening because no one has to shout."
       },
       {
         "role": "narrator",
@@ -131,18 +131,18 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Audrey. Dickens is not only asking whether Scrooge can become nicer. He is asking whether a person can be shocked back into relationship with the world."
+        "text": "Yes, Audrey. Dickens is not only asking whether Scrooge can become nicer. He is asking whether a man who has made himself hard can still learn to care while there is time."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "Maybe the miracle is not Christmas magic. Maybe it is becoming reachable again.",
-        "audioText": "[gently] Maybe the miracle is not Christmas magic. Maybe it is becoming reachable again."
+        "text": "Maybe the miracle is not Christmas magic. Maybe it is hearing the knock and opening the door.",
+        "audioText": "[gently] Maybe the miracle is not Christmas magic. Maybe it is hearing the knock and opening the door."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "The question is whether one night can open a heart that has spent a lifetime locking itself shut."
+        "text": "The question is whether one night can teach Scrooge to open the door before it is too late."
       }
     ],
     "sources": [

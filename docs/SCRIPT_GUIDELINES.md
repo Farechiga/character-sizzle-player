@@ -154,3 +154,50 @@ Accessible, but not flat.
 
 Every image should help the listener picture a person before it asks them to
 understand a theme.
+
+## Dilettante And Painful College Essay Filter
+
+After drafting, run a final pass for sentences that sound clever but do not
+help a young listener picture the story.
+
+The filter catches lines that feel like someone performing sophistication
+instead of telling the truth simply.
+
+Red flags:
+
+- abstract noun stacks: fidelity, agency, subjectivity, relationality, rupture
+- "not merely X, but Y" sentences that only rename the theme
+- phrases that sound profound but do not show a person, choice, place, or
+  consequence
+- lines that could appear in almost any essay if the title were changed
+- Paxten lines that float above the scene instead of deepening it
+
+Better test:
+
+Can a middle-grade listener see it, feel it, or ask a real question about it?
+
+Less good:
+
+> So Christmas is not decoration. It is pressure.
+
+Better:
+
+> So Christmas is not just the pretty part. It is the day that keeps knocking
+> at his door.
+
+Less good:
+
+> Dickens explores the restoration of relationality.
+
+Better:
+
+> Dickens asks whether a man who has made himself hard can still learn to care
+> while there is time.
+
+Paxten may stay poetic, but her poetry should be clean and visible:
+
+> Maybe she does not want to disappear. Maybe she wants to come back different.
+
+Not:
+
+> Maybe disappearance is a threshold of selfhood.
