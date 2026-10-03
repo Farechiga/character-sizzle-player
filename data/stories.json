@@ -548,21 +548,140 @@
     "id": "of-salt-and-shore",
     "title": "Of Salt and Shore",
     "author": "Annet Schaap / Laura Watkinson",
-    "lengthLabel": "character intro",
-    "focus": "Lampie loses the light for one terrible night, then finds a secret no one in town knows how to love.",
+    "lengthLabel": "dialogue intro",
+    "focus": "Lampie misses one small errand, the lighthouse goes dark, and a stranger secret waits inside the Black House.",
     "audioSrc": "audio/of-salt-and-shore.mp3",
     "scriptParagraphs": [
-      "Emilia was a girl by the sea, but almost everyone called her Lampie.",
-      "She was the lighthouse keeper's daughter, small beside the waves and braver than she knew. Each night, she helped keep the lamp burning so ships would not break against the rocks.",
-      "Her mother was gone. Her father, Augustus, carried his grief like a storm inside the house. Sometimes Lampie had to be the steady one.",
-      "Then, one terrible night, the matches run out.",
-      "The light goes dark. A ship is wrecked. The town wants someone to blame.",
-      "Augustus is punished, and Lampie is sent away to work at the Admiral's Black House, a place people talk about in whispers.",
-      "They say a monster lives there.",
-      "But in the locked-away rooms of that house, Lampie finds Edward, a furious, lonely child the world has called Fish, monster, mistake.",
-      "Lampie cannot read yet, and she does not understand every secret around her. But she knows what it feels like to be frightened. She knows what it feels like to be blamed. She knows how to keep coming back.",
-      "Of Salt and Shore is a sea-dark fairy tale about two children treated as problems by the people who should have protected them.",
-      "The question is whether Lampie and Edward can learn to see each other clearly enough to become free."
+      "Emilia Waterman is eleven years old and lives by the sea, where almost everyone calls her Lampie.",
+      "She is the lighthouse keeper's daughter. Every evening, the lamp has to burn so ships will not smash against the rocks.",
+      "Then one stormy night, Lampie forgets the matches. The light stays dark. A ship wrecks. The town decides someone must pay.",
+      "Her father, Augustus, is locked in the lighthouse, and Lampie is sent to work for years at the Admiral's Black House, where people whisper about a monster in the tower.",
+      "But the monster is Edward, the Admiral's secret son: angry, lonely, and born with a fish's tail.",
+      "Lampie cannot read yet. Edward does not know how to trust her. Both of them have been treated as troubles other people would rather shut away.",
+      "Of Salt and Shore is a dark, salt-air fairy tale about a girl who keeps coming back and a boy who has been told the wrong story about himself.",
+      "The question is whether Lampie and Edward can see each other clearly enough to find a way out, on land or in the sea."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Emilia Waterman is eleven years old and lives by the sea, where almost everyone calls her Lampie."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Lampie. That sounds cheerful. I am suspicious already.",
+        "audioText": "[crisp, wary] Lampie. That sounds cheerful. I am suspicious already."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Quite right to be suspicious, Audrey. Lampie is the lighthouse keeper's daughter. Every evening, the lamp has to burn so ships will not smash against the rocks."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is a lot for a child to carry. A light everyone depends on.",
+        "audioText": "[softly] That is a lot for a child to carry. A light everyone depends on."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. And one stormy night, Lampie forgets the matches. The light stays dark. A ship wrecks."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "One forgotten errand, and the adults decide the child must pay?",
+        "audioText": "[incredulous] One forgotten errand, and the adults decide the child must pay?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the cruel shape of it. Her father, Augustus, is locked in the lighthouse, and Lampie is sent to work for years at the Admiral's Black House."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "A house people whisper about is almost never only a house.",
+        "audioText": "[hushed] A house people whisper about is almost never only a house."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. In that house, people say there is a monster hidden in the tower."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Let me guess. The rule is: do not open the door.",
+        "audioText": "[prim, suspicious] Let me guess. The rule is: do not open the door."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. But Lampie does open the way upstairs, and the monster is not what the town imagined. He is Edward, the Admiral's secret son: angry, lonely, and born with a fish's tail."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds lonely before it sounds magical.",
+        "audioText": "[soft wonder] That sounds lonely before it sounds magical."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. Edward has been hidden away. Lampie has been sent away. One child is called a monster. One child is treated like a debt to be collected."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So this is not a story where the brave child fixes the strange child like a project.",
+        "audioText": "[firmly] So this is not a story where the brave child fixes the strange child like a project."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No, Audrey. The story is sharper than that. Edward is not a problem to solve. Lampie is not a servant to use. They have both been put where adults do not have to look too closely."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Maybe they begin to help each other because they are the first ones to really look.",
+        "audioText": "[gently] Maybe they begin to help each other because they are the first ones to really look."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. Of Salt and Shore is a dark, salt-air fairy tale about a girl who keeps coming back and a boy who has been told the wrong story about himself."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question is whether Lampie and Edward can see each other clearly enough to find a way out, on land or in the sea."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Penguin Random House, Of Salt and Shore",
+        "url": "https://www.penguinrandomhouse.com/books/635482/of-salt-and-shore-by-annet-schaap-author/",
+        "note": "Used for the publisher synopsis, age range, publication details, and review excerpts describing Lampie, the lighthouse, the shipwreck, the Black House, and Edward."
+      },
+      {
+        "label": "Charlesbridge, Of Salt and Shore",
+        "url": "https://www.charlesbridge.com/pages/of-salt-and-shore",
+        "note": "Used for the U.S. publisher description, Lampie's banishment to the Admiral's house, Fish/Edward, and the book's fairy-tale framing."
+      },
+      {
+        "label": "Kirkus Reviews, Of Salt and Shore",
+        "url": "https://www.kirkusreviews.com/book-reviews/annet-schaap/of-salt-and-shore/",
+        "note": "Used for age guidance, gothic fairy-tale tone, and confirmation of Augustus, Lampie's illiteracy, the Black House, and the tower secret."
+      },
+      {
+        "label": "The Carnegies, 2020 Carnegie Medal shortlist",
+        "url": "https://carnegiegreenaway.org.uk/cilip-reveal-the-winners-of-the-2020-carnegie-kate-greenaway-shadowers-choice-awards/",
+        "note": "Used for award context: Lampie was shortlisted for the 2020 CILIP Carnegie Medal."
+      }
     ]
   },
   {
