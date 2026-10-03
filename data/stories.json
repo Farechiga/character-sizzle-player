@@ -569,23 +569,141 @@
     "id": "bateson-metalogues",
     "title": "Metalogues",
     "author": "Gregory Bateson",
-    "lengthLabel": "character intro",
-    "focus": "A daughter asks simple questions, and her father discovers that simple questions can rearrange the whole room.",
+    "lengthLabel": "dialogue intro",
+    "focus": "A daughter asks simple questions, and the conversation itself becomes the experiment.",
     "audioSrc": "audio/bateson-metalogues.mp3",
     "scriptParagraphs": [
-      "The daughter was a child with a clear voice and a dangerous gift: she asked the question everyone else had learned to step around.",
-      "Why do things get in a muddle?",
-      "Her father was Gregory Bateson, a scientist and thinker who could see patterns in animals, families, games, words, and minds.",
-      "But here he is not on a stage. He is sitting with a girl who will not let easy answers pass.",
-      "She asks about muddles. He tries to sort them, and the talk becomes tangled.",
-      "She asks if their conversations are serious, or only a game. He answers, then notices the game has already begun.",
-      "She asks how much he knows, why things have outlines, why a swan can mean more than a swan, what an instinct really is.",
-      "Each question looks small enough to hold in one hand.",
-      "Then it opens.",
-      "In the Metalogues, the daughter wants clarity. The father wants honesty. Together they discover that thinking is not a straight road.",
-      "It loops. It doubles back. It changes shape when two people are brave enough to keep asking.",
-      "These are conversations about learning, play, confusion, rules, and the strange patterns that connect living things.",
-      "The question is whether a father can teach his daughter how to think, or whether she has been teaching him all along."
+      "The Metalogues look small at first: a daughter asks her father a question.",
+      "Why do things get in a muddle? Are we serious, or is this a game? How much do you know? What is an instinct?",
+      "But Gregory Bateson is not writing little answers in disguise. He is making the conversation perform the problem.",
+      "If the daughter asks about muddles, the talk itself gets tangled. If she asks about games, the conversation starts behaving like a game. If she asks about knowing, the father has to admit that knowing is not as tidy as adults pretend.",
+      "That is the electricity of the Metalogues: the daughter is not a cute excuse for a lecture. She is the pressure. She notices the wobble in the adult answer and will not let it stand.",
+      "Her father is a scientist of patterns, but here he cannot hide inside expertise. He has to think with her, in real time, where mistakes and sidetracks are part of the method.",
+      "The Metalogues are about learning how to learn: how confusion can be useful, how a question can change shape while you hold it, and how thinking with another person is different from thinking alone.",
+      "The question is whether the father is teaching the daughter how to think, or whether her questions are teaching him where thought actually begins."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The Metalogues look small at first: a daughter asks her father a question."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That sounds dangerously innocent. What sort of question?",
+        "audioText": "[crisp, curious] That sounds dangerously innocent. What sort of question?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Questions like: why do things get in a muddle? Are we serious, or is this a game? How much do you know? What is an instinct?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Those sound like little questions with very large rooms inside them.",
+        "audioText": "[soft wonder] Those sound like little questions with very large rooms inside them."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Gregory Bateson was a thinker of patterns: anthropology, psychology, cybernetics, communication, mind."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So he knows the answer, surely. Father explains, daughter receives wisdom, everyone goes home tidy.",
+        "audioText": "[prim, suspicious] So he knows the answer, surely. Father explains, daughter receives wisdom, everyone goes home tidy."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Not quite, Audrey. The trick of a metalogue is that the conversation does not only discuss the problem. The conversation starts to act like the problem."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Do you mean the form is part of the lesson?",
+        "audioText": "[quickly, intrigued] Do you mean the form is part of the lesson?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. If the daughter asks about muddles, the talk itself gets tangled. If she asks about games, the conversation starts behaving like a game."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That feels more honest than a neat answer. Thinking is often messy while it is happening.",
+        "audioText": "[thoughtfully] That feels more honest than a neat answer. Thinking is often messy while it is happening."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. And the daughter is not decoration. She is the pressure in the room."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Good. I dislike decorative children in grown-up arguments.",
+        "audioText": "[approving, exact] Good. I dislike decorative children in grown-up arguments."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "She notices when an answer wobbles. She asks what a word really means. She refuses the adult habit of pretending that difficult things are simple."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "And he lets her. That matters too.",
+        "audioText": "[gently] And he lets her. That matters too."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It does. Bateson the expert has to think with her in real time. Not above her. With her."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the daughter is not interrupting the lesson. She is making the lesson possible.",
+        "audioText": "[precise, delighted] So the daughter is not interrupting the lesson. She is making the lesson possible."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. The Metalogues are about learning how to learn: how confusion can be useful, how a question can change shape while you hold it, and how thinking with another person is different from thinking alone."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "It sounds tender, but also a little dangerous. A real question can rearrange the person answering it.",
+        "audioText": "[softly] It sounds tender, but also a little dangerous. A real question can rearrange the person answering it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the living spark. The question is whether the father is teaching the daughter how to think, or whether her questions are teaching him where thought actually begins."
+      }
+    ],
+    "sources": [
+      {
+        "label": "University of Chicago Press, Steps to an Ecology of Mind",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3620295.html",
+        "note": "Used for publisher grounding on Bateson's fields, the book's publication context, and the Part I list of Metalogues."
+      },
+      {
+        "label": "Gregory Bateson, Steps to an Ecology of Mind",
+        "url": "https://ejcj.orfaleacenter.ucsb.edu/wp-content/uploads/2017/06/1972.-Gregory-Bateson-Steps-to-an-Ecology-of-Mind.pdf",
+        "note": "Used for Bateson's definition of a metalogue and the father-daughter structure of the opening conversations."
+      },
+      {
+        "label": "Bateson for Business, Metalogue 1",
+        "url": "https://www.batesonforbusiness.com/metalogue-1-why-do-things-get-in-a-muddle/",
+        "note": "Used for a concise secondary explanation of the first metalogue and the idea that the conversation itself gets into a muddle."
+      }
     ]
   },
   {
