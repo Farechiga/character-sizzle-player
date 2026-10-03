@@ -7,8 +7,10 @@ the listener notice what matters. They should not become hosts who explain the
 whole book. They are thinking partners who interrupt at the right moments.
 
 Do not introduce Audrey and Paxten at the start of each piece. The opening
-belongs to the characters inside the work. Audrey and Paxten should enter only
-after the listener has met the main character, setting, and first pressure.
+belongs to the work itself: a main character, a creator with a juicy reason to
+care, or a concrete trouble in the air. Audrey and Paxten should enter early,
+usually within the first two to four spoken turns, once the hook is visible.
+They are often the best way to turn "why should I care?" into a live question.
 
 ## Roles
 
@@ -76,9 +78,9 @@ Good Paxten lines often begin with:
 
 Use this pattern:
 
-1. Narrator opens with the work's character and ordinary world.
-2. Narrator names the first pressure or turn.
-3. Audrey questions the plan, motive, or logic.
+1. Narrator opens with a concrete hook from the work: character, creator, title, place, or trouble.
+2. Audrey or Paxten enters early to make the "so what?" audible.
+3. Narrator names the main character and first pressure.
 4. Narrator clarifies without overexplaining.
 5. Paxten reframes the feeling.
 6. Narrator returns to the story and raises the stakes.

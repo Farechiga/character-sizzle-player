@@ -48,144 +48,183 @@
     "title": "Cosi fan tutte",
     "author": "Wolfgang Amadeus Mozart / Lorenzo Da Ponte",
     "lengthLabel": "dialogue intro",
-    "focus": "Dorabella and Fiordiligi think their hearts are already decided. Then love comes back in disguise.",
+    "focus": "Mozart turns a cruel prank into a sparkling, uncomfortable question about love, trust, and the parts of ourselves we do not expect.",
     "audioSrc": "audio/cosi-fan-tutte.mp3",
     "scriptParagraphs": [
-      "Dorabella was a young woman in Naples who felt everything quickly.",
-      "She lived with her sister Fiordiligi, who was steadier, prouder, and much harder to move. Dorabella loved Ferrando. Fiordiligi loved Guglielmo. The sisters had different hearts, but the same bright certainty: love had already chosen its path.",
-      "Dorabella liked love to feel grand and unmistakable: letters, sighs, reunions, the sweet ache of missing someone and knowing he missed her too.",
-      "Fiordiligi loved the promise itself: the clear yes, the held line, the proud thought that her word would not bend just because life pushed on it.",
-      "Then their lovers are called away to war. At least, that is what the sisters are told.",
-      "Don Alfonso, an older friend with a very sour opinion of love, has made a wager. He thinks the women can be tempted. The men think this is impossible. So they agree to test the women they claim to trust.",
-      "The men return in disguise as strangers: bold, flattering, and much too interested.",
-      "Dorabella, who thought faithfulness would feel like waiting, discovers that being noticed can feel like sunlight.",
-      "Fiordiligi, who wants her promise to stand like stone, begins to hear doubt knocking at the door.",
-      "And Despina, the sisters' clever maid, knows exactly how quickly a serious world can become ridiculous.",
-      "Cosi fan tutte begins with two sisters certain they know their own hearts.",
-      "The question is what happens when love walks back in wearing a mask."
+      "Before Dorabella and Fiordiligi ever sing, there is Mozart: not a dusty statue, but a dazzling performer-composer who had been famous since childhood and knew how to make a room pay attention.",
+      "With Lorenzo Da Ponte, Mozart had already helped turn risky subjects into opera. Their Figaro came from a play too politically touchy for public performance in Vienna. Then came Cosi fan tutte, a comedy whose very title can sound like an accusation: women are like that.",
+      "Dorabella and Fiordiligi are two sisters in Naples. Dorabella feels quickly. Fiordiligi stands proudly. Each sister believes her heart is already decided.",
+      "Their lovers, Ferrando and Guglielmo, are just as certain. My beloved would never change, they say. Don Alfonso, older and sourer, says: let me test that.",
+      "The men pretend to leave for war, then return in disguise to court each other's fiancee. It is a prank, a wager, and a trap.",
+      "That is why the story still stings. The test is unfair, but the feelings it wakes up are not pretend.",
+      "Dorabella discovers that attention can feel like sunlight. Fiordiligi discovers that a promise can tremble and still matter. Despina, their clever maid, sees through the seriousness and knows people are far messier than their speeches.",
+      "Mozart's trick is that no one gets cartoon music. The foolish people, the cruel people, the confused people, and the wounded people all get melodies that sound alive.",
+      "Cosi fan tutte is not interesting because the prank is fair. It is interesting because it is not fair, and the music still asks us to listen.",
+      "The question is not whether all women are like that. The question is what a bad test reveals about everyone in the room."
     ],
     "dialogueSegments": [
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Dorabella was a young woman in Naples who felt everything quickly."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "She lived with her sister Fiordiligi, who was steadier, prouder, and much harder to move."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "Dorabella loved Ferrando. Fiordiligi loved Guglielmo. The sisters had different hearts, but the same bright certainty: love had already chosen its path."
+        "text": "Before Dorabella and Fiordiligi ever sing, there is Mozart: not a dusty statue, but a dazzling performer-composer who had been famous since childhood and knew how to make a room pay attention."
       },
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "So one sister trusts feeling, and the other trusts her promise. That is tidy. Suspiciously tidy.",
-        "audioText": "[crisp, intrigued] So one sister trusts feeling, and the other trusts her promise. That is tidy. Suspiciously tidy."
+        "text": "Wait. Mozart was not just elegant background music for fancy people?",
+        "audioText": "[incredulous, interested] Wait. Mozart was not just elegant background music for fancy people?"
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Exactly, Audrey. Dorabella likes love to feel grand and unmistakable: letters, sighs, reunions, the sweet ache of missing someone and knowing he misses her too."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "Fiordiligi loves the promise itself: the clear yes, the held line, the proud thought that her word will not bend just because life pushes on it."
+        "text": "No, Audrey. As a child he toured Europe playing for royal courts. As an adult in Vienna, he wrote music that could sparkle, tease, offend, and astonish."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "They both sound sincere. Just sincere in different directions.",
-        "audioText": "[softly] They both sound sincere. Just sincere in different directions."
+        "text": "So, a rock star, but with candlelight and carriages.",
+        "audioText": "[softly amused] So, a rock star, but with candlelight and carriages."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. For both sisters, the future seems named, paired, and waiting."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "Then their lovers are called away to war."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "At least, that is what Dorabella and Fiordiligi are told."
+        "text": "Beautifully put, Paxten. And with his writer Lorenzo Da Ponte, Mozart liked dangerous material. Their Figaro came from a play too politically touchy for public performance in Vienna."
       },
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "That pause sounds extremely unsafe.",
-        "audioText": "[alert] That pause sounds extremely unsafe."
+        "text": "So people did not come to a Mozart comedy thinking, ah, safe little tunes. They came thinking, what is he going to get away with?",
+        "audioText": "[bright, precise] So people did not come to a Mozart comedy thinking, ah, safe little tunes. They came thinking, what is he going to get away with?"
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "It is. Don Alfonso, an older friend with a very sour opinion of love, has made a wager. He thinks the women can be tempted. The men think this is impossible."
+        "text": "Exactly, Audrey. Then came Cosi fan tutte, a title that can sound like an accusation: women are like that."
       },
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "So naturally, the men prove their trust by conducting an elaborate test. Excellent reasoning. Terrible manners.",
-        "audioText": "[dryly] So naturally, the men prove their trust by conducting an elaborate test. Excellent reasoning. Terrible manners."
+        "text": "That is not a title. That is a raised eyebrow with an orchestra.",
+        "audioText": "[dryly] That is not a title. That is a raised eyebrow with an orchestra."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Audrey. The men agree to pretend they have gone away, then return in disguise as strangers: bold, flattering, and much too interested."
+        "text": "Yes. And right away, the opera gives us two sisters in Naples: Dorabella and Fiordiligi."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Dorabella feels quickly. Fiordiligi stands proudly. Dorabella loves Ferrando. Fiordiligi loves Guglielmo. Each sister believes her heart is already decided."
       },
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "So the trick is fake, but the hurt is real.",
-        "audioText": "[quietly] So the trick is fake, but the hurt is real."
+        "text": "That sounds peaceful. Which means it is probably about to be disturbed.",
+        "audioText": "[soft, wary] That sounds peaceful. Which means it is probably about to be disturbed."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Paxten. And that is where the comedy becomes sharper than a simple joke."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "Dorabella, who thought faithfulness would feel like waiting, discovers that being noticed can feel like sunlight."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "Fiordiligi, who wants her promise to stand like stone, begins to hear doubt knocking at the door."
-      },
-      {
-        "role": "paxten",
-        "speaker": "Paxten",
-        "text": "That is sadder than I expected. They are not only being fooled. They are meeting parts of themselves they did not invite.",
-        "audioText": "[thoughtful] That is sadder than I expected. They are not only being fooled. They are meeting parts of themselves they did not invite."
-      },
-      {
-        "role": "narrator",
-        "speaker": "Narrator",
-        "text": "And Despina, the sisters' clever maid, is not shocked by any of it. She knows exactly how quickly a serious world can become ridiculous."
+        "text": "Very disturbed. Their lovers are proud of them, almost as if the women are trophies proving how wonderful the men are."
       },
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "I suspect Despina has the most practical education in the room.",
-        "audioText": "[approving] I suspect Despina has the most practical education in the room."
+        "text": "Ah. I see the problem arriving in polished shoes.",
+        "audioText": "[alert, prim] Ah. I see the problem arriving in polished shoes."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Cosi fan tutte begins with two sisters certain they know their own hearts."
+        "text": "His name is Don Alfonso. He is older, cleverer, and sour about love. Ferrando and Guglielmo insist their sweethearts would never change. Alfonso says: give me one day."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "One day? That is not romance. That is a science-fair project with feelings. I object.",
+        "audioText": "[indignant, fascinated] One day? That is not romance. That is a science-fair project with feelings. I object."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "The question is what happens when love walks back in wearing a mask."
+        "text": "You should object. The men pretend to leave for war. Then they come back in disguise and try to make the sisters fall in love with them as strangers."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the costumes are fake, but the confusion is real.",
+        "audioText": "[quietly] So the costumes are fake, but the confusion is real."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. That is why Cosi still stings. The test is unfair, but the feelings it wakes up are not pretend."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "If someone tricks you into revealing a feeling, did they discover the truth, or did they help create it?",
+        "audioText": "[thoughtful] If someone tricks you into revealing a feeling, did they discover the truth, or did they help create it?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the question hiding under the jokes. Dorabella discovers that attention can feel like sunlight. Fiordiligi discovers that a promise can tremble and still matter."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "And the men? Do they learn anything, or do they merely cause the problem and then look offended by it?",
+        "audioText": "[crisp, offended] And the men? Do they learn anything, or do they merely cause the problem and then look offended by it?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Mozart is too good to let anyone stay simple. The foolish people, the cruel people, the confused people, and the wounded people all get music that sounds alive."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And Despina, the sisters' clever maid, understands the room faster than anyone. She knows people are far messier than their speeches."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So Mozart makes the prank sparkle, but he does not let it become harmless.",
+        "audioText": "[softly] So Mozart makes the prank sparkle, but he does not let it become harmless."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Cosi fan tutte is not interesting because the prank is fair. It is interesting because it is not fair, and the music still asks us to listen."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question is not whether all women are like that. The question is what a bad test reveals about everyone in the room."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cornell University Library, Mozart and the Keyboard Culture of His Time",
+        "url": "https://rmc.library.cornell.edu/mozart/intro.htm",
+        "note": "Used for the framing of Mozart's pan-European fame as a child prodigy and his standing as a performer-composer."
+      },
+      {
+        "label": "The Royal Opera, Cosi fan tutte",
+        "url": "https://www.rbo.org.uk/production/cosi-fan-tutte-netia-jones",
+        "note": "Used for the plot hook, the opera's 1790 scandal, and its long reputation as immoral, cruel, or odd."
+      },
+      {
+        "label": "Mount Holyoke College, From Banned Play to Opera Libretto",
+        "url": "https://commons.mtholyoke.edu/figarofiles/deeper-dives/play-to-libretto/",
+        "note": "Used for the note that the Beaumarchais play behind Figaro was banned from public performance in Vienna and softened for opera."
+      },
+      {
+        "label": "LA Phil, Cosi fan tutte",
+        "url": "https://www.laphil.com/works/cosi-fan-tutte",
+        "note": "Used for the title translation, 1790 premiere context, and the structure of the wager, disguises, and six main characters."
       }
     ]
   },
