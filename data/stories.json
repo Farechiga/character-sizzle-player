@@ -167,22 +167,156 @@
     "id": "tale-of-two-cities",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
-    "lengthLabel": "character intro",
-    "focus": "Lucie Manette grows up with a quiet life and one father-shaped absence.",
+    "lengthLabel": "dialogue intro",
+    "focus": "A prison opens, a city sharpens its anger, and Sydney Carton wonders whether a wasted life can still mean something.",
     "audioSrc": "audio/tale-of-two-cities.mp3",
     "scriptParagraphs": [
-      "Lucie Manette was a young woman in London with golden hair, a gentle voice, and an empty place where her father should have been.",
-      "She had grown up with care around her, but also with silence. Her father was spoken of like someone lost beyond reach. Not absent for a little while. Gone.",
-      "Then, one day, a banker named Mr. Lorry brings impossible news.",
-      "Lucie's father is alive.",
-      "He has been hidden away in a French prison for so long that freedom does not know how to find him all at once. When Lucie meets him, she does not meet the father of her dreams. She meets a wounded man who has almost forgotten his own name.",
-      "So Lucie becomes something more than a daughter. She becomes a light he can follow back into the world.",
-      "Around her, the world is growing sharper. London watches. Paris waits. In France, old cruelty has filled the streets with anger, and that anger is beginning to move like fire.",
-      "Charles Darnay wants to escape the shadow of the family he was born into. He wants a clean life, a loving home, and a future not poisoned by his name.",
-      "Sydney Carton wants almost nothing, or says he does. He is brilliant, careless, and tired of himself. Then he sees Lucie, and for one painful moment, he sees the better man he might have been.",
-      "A Tale of Two Cities begins with a daughter trying to save one broken man.",
-      "But soon, love is standing in the path of history.",
-      "The question is not only who will survive the revolution. It is who love might call someone to become before the end."
+      "A Tale of Two Cities is not only a story about the French Revolution. It is a story about what happens when private pain gets swept into public fury.",
+      "In Paris, Dr. Manette has been buried alive for eighteen years in the Bastille. In London, his daughter Lucie has grown up with a father-shaped absence.",
+      "When Lucie finds him alive, she does not receive the father of her dreams. She receives a wounded man who has almost forgotten himself.",
+      "Lucie becomes a kind of light: not weak, not decorative, but steady enough to call someone back into the world.",
+      "Then two men enter her orbit. Charles Darnay is trying to escape a family name stained by cruelty. Sydney Carton looks strangely like him, but believes he has wasted himself beyond repair.",
+      "Meanwhile Paris is changing. The Revolution has reasons. It also has teeth. Madame Defarge remembers every wrong, and she is not interested in gentle forgiveness.",
+      "Dickens makes the dangerous question personal: can love save a few people while history is demanding payment from everyone?",
+      "And the sharpest question belongs to Sydney Carton: if you think your life has meant nothing, can one choice still make it matter?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A Tale of Two Cities begins with one of the biggest pressures a story can have: a country has been hurt for so long that its anger starts looking like justice."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is already dangerous. Anger can be correct and still make terrible decisions.",
+        "audioText": "[crisp, alert] That is already dangerous. Anger can be correct and still make terrible decisions."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. Dickens sets the story between London and Paris, before and during the French Revolution."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So this is not only history. It is pressure building under people's lives.",
+        "audioText": "[softly] So this is not only history. It is pressure building under people's lives."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. At the center is Lucie Manette, a young woman in London with one enormous absence: her father."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Dr. Manette has been buried alive for eighteen years in the Bastille, the famous French prison. When he is finally found, freedom does not simply make him whole."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is sadder than a rescue usually sounds. He is alive, but not fully returned.",
+        "audioText": "[quietly] That is sadder than a rescue usually sounds. He is alive, but not fully returned."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. Lucie does not receive the father of her dreams. She receives a wounded man who has almost forgotten himself."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So her job is not just to love him. It is to help him remember how to exist.",
+        "audioText": "[precise, moved] So her job is not just to love him. It is to help him remember how to exist."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Lucie becomes a kind of light: not weak, not decorative, but steady enough to call someone back into the world."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then two men enter her orbit. Charles Darnay is trying to escape a family name stained by cruelty."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Sydney Carton looks strangely like him, but believes he has wasted himself beyond repair."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Wait. Two men who look alike, but one is escaping a terrible family and the other is escaping himself?",
+        "audioText": "[quick, intrigued] Wait. Two men who look alike, but one is escaping a terrible family and the other is escaping himself?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the engine. Darnay wants a clean future. Carton barely believes he deserves any future at all."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Sometimes the person who seems careless is the one carrying the most grief.",
+        "audioText": "[thoughtful] Sometimes the person who seems careless is the one carrying the most grief."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Meanwhile Paris is changing. The Revolution has reasons. It also has teeth."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is a clean sentence, and a terrifying one.",
+        "audioText": "[low, precise] That is a clean sentence, and a terrifying one."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Madame Defarge remembers every wrong, and she is not interested in gentle forgiveness. Around her, old cruelty is being answered by new cruelty."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the story is asking whether pain can become justice without becoming something else.",
+        "audioText": "[softly, uneasy] So the story is asking whether pain can become justice without becoming something else."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Dickens makes the dangerous question personal: can love save a few people while history is demanding payment from everyone?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "And Sydney Carton? I suspect he is not finished.",
+        "audioText": "[quiet, certain] And Sydney Carton? I suspect he is not finished."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No. The sharpest question belongs to him: if you think your life has meant nothing, can one choice still make it matter?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Project Gutenberg, A Tale of Two Cities",
+        "url": "https://www.gutenberg.org/ebooks/98",
+        "note": "Used for the core text and plot structure: London and Paris, Dr. Manette, Lucie, Darnay, Carton, and the French Revolution."
+      },
+      {
+        "label": "Stanford University, Discovering Dickens: Historical Context",
+        "url": "https://dickens.stanford.edu/dickens/archive/tale/historical_context.html",
+        "note": "Used for historical framing around the French Revolution, the Bastille, the Reign of Terror, and the novel's serial publication."
+      },
+      {
+        "label": "Simon & Schuster, A Tale of Two Cities",
+        "url": "https://www.simonandschuster.net/books/A-Tale-of-Two-Cities/Charles-Dickens/Enriched-Classics/9780743487603",
+        "note": "Used for publisher framing of the novel as a story of freedom, love, and the chaos of the French Revolution."
+      }
     ]
   },
   {
