@@ -5,20 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
       name="description"
-      content="Character-driven spoken introductions to classic stories."
+      content="Spoken introductions to classic stories and kid-friendly natural experiments."
     >
-    <title>Character Sizzle Player</title>
+    <title>Story and Natural Experiment Player</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <main class="shell">
       <section class="masthead" aria-labelledby="page-title">
-        <h1 id="page-title">Classic stories, introduced through character.</h1>
+        <h1 id="page-title">Stories and questions, introduced aloud.</h1>
+        <p id="page-subtitle" class="lede">
+          Choose a creative-work introduction or a natural-experiment mystery.
+        </p>
       </section>
 
-      <section class="player-panel" aria-label="Story player">
+      <section class="player-panel" aria-label="Audio player">
+        <div class="mode-switch" aria-label="Choose player mode">
+          <button class="mode-button is-active" type="button" data-mode="stories">Creative works</button>
+          <button class="mode-button" type="button" data-mode="natural-experiments">Natural experiments</button>
+        </div>
+
         <div class="controls">
-          <label class="select-label" for="story-select">Story</label>
+          <label id="item-label" class="select-label" for="story-select">Story</label>
           <select id="story-select" class="story-select"></select>
           <button id="play-button" class="play-button" type="button" aria-label="Play selected story">
             <span class="play-symbol" aria-hidden="true"></span>
@@ -33,7 +41,15 @@
       <section class="story-view" aria-labelledby="story-title">
         <h2 id="story-title"></h2>
         <p id="story-focus" class="focus-line"></p>
+        <div id="evidence-panel" class="evidence-panel" hidden>
+          <p id="framing-line" class="framing-line"></p>
+          <div id="comparison-list" class="comparison-list"></div>
+        </div>
         <div id="script" class="script"></div>
+        <section id="sources-panel" class="sources-panel" aria-labelledby="sources-title" hidden>
+          <h3 id="sources-title">Sources</h3>
+          <ul id="source-list"></ul>
+        </section>
       </section>
     </main>
 

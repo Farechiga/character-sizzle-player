@@ -1,35 +1,86 @@
 import { readFile } from "node:fs/promises";
 
-const stories = JSON.parse(await readFile(new URL("../data/stories.json", import.meta.url), "utf8"));
-const required = ["id", "title", "author", "focus", "audioSrc"];
-const ids = new Set();
+const collections = [
+  {
+    name: "stories",
+    url: new URL("../data/stories.json", import.meta.url),
+    required: ["id", "title", "author", "focus", "audioSrc"]
+  },
+  {
+    name: "natural experiments",
+    singularName: "natural experiment",
+    url: new URL("../data/natural-experiments.json", import.meta.url),
+    required: ["id", "title", "author", "focus", "audioSrc", "framing"]
+  }
+];
 
-for (const story of stories) {
-  for (const field of required) {
-    if (!story[field] || typeof story[field] !== "string") {
-      throw new Error(`Story ${story.id || "(missing id)"} is missing ${field}.`);
+const globalIds = new Set();
+const counts = [];
+
+for (const collection of collections) {
+  const items = JSON.parse(await readFile(collection.url, "utf8"));
+  const localIds = new Set();
+
+  for (const item of items) {
+    for (const field of collection.required) {
+      if (!item[field] || typeof item[field] !== "string") {
+        throw new Error(`${collection.name} item ${item.id || "(missing id)"} is missing ${field}.`);
+      }
     }
-  }
 
-  if (!Array.isArray(story.scriptParagraphs) || story.scriptParagraphs.length === 0) {
-    throw new Error(`Story ${story.id} must include scriptParagraphs.`);
-  }
-
-  for (const paragraph of story.scriptParagraphs) {
-    if (!paragraph || typeof paragraph !== "string") {
-      throw new Error(`Story ${story.id} has an invalid script paragraph.`);
+    if (!Array.isArray(item.scriptParagraphs) || item.scriptParagraphs.length === 0) {
+      throw new Error(`${collection.name} item ${item.id} must include scriptParagraphs.`);
     }
+
+    for (const paragraph of item.scriptParagraphs) {
+      if (!paragraph || typeof paragraph !== "string") {
+        throw new Error(`${collection.name} item ${item.id} has an invalid script paragraph.`);
+      }
+    }
+
+    if (localIds.has(item.id) || globalIds.has(item.id)) {
+      throw new Error(`Duplicate item id: ${item.id}`);
+    }
+
+    if (!item.audioSrc.startsWith("audio/") || !item.audioSrc.endsWith(".mp3")) {
+      throw new Error(`${collection.name} item ${item.id} must point to an audio/*.mp3 file.`);
+    }
+
+    if (collection.name === "natural experiments") {
+      validateNaturalExperiment(item);
+    }
+
+    localIds.add(item.id);
+    globalIds.add(item.id);
   }
 
-  if (ids.has(story.id)) {
-    throw new Error(`Duplicate story id: ${story.id}`);
-  }
-
-  if (!story.audioSrc.startsWith("audio/") || !story.audioSrc.endsWith(".mp3")) {
-    throw new Error(`Story ${story.id} must point to an audio/*.mp3 file.`);
-  }
-
-  ids.add(story.id);
+  counts.push(`${items.length} ${items.length === 1 && collection.singularName ? collection.singularName : collection.name}`);
 }
 
-console.log(`Validated ${stories.length} stories.`);
+console.log(`Validated ${counts.join(" and ")}.`);
+
+function validateNaturalExperiment(item) {
+  if (!Array.isArray(item.comparisonPoints) || item.comparisonPoints.length < 2) {
+    throw new Error(`Natural experiment ${item.id} must include at least two comparisonPoints.`);
+  }
+
+  for (const point of item.comparisonPoints) {
+    if (!point.label || !point.detail) {
+      throw new Error(`Natural experiment ${item.id} has an invalid comparison point.`);
+    }
+  }
+
+  if (!item.reveal || !item.reveal.label || !item.reveal.detail) {
+    throw new Error(`Natural experiment ${item.id} must include a reveal.`);
+  }
+
+  if (!Array.isArray(item.sources) || item.sources.length === 0) {
+    throw new Error(`Natural experiment ${item.id} must include sources.`);
+  }
+
+  for (const source of item.sources) {
+    if (!source.label || !source.url || !source.note) {
+      throw new Error(`Natural experiment ${item.id} has an invalid source.`);
+    }
+  }
+}

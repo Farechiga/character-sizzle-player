@@ -9,6 +9,7 @@ loadLocalEnv();
 
 const args = parseArgs(process.argv.slice(2));
 const storyArg = args.story || "all";
+const collectionArg = args.collection || "stories";
 const voiceId = args.voice || process.env.ELEVENLABS_VOICE_ID || "JBFqnCBsd6RMkjVDRZzb";
 const modelId = args.model || process.env.ELEVENLABS_MODEL_ID || "eleven_v4";
 const outputFormat = args.output || process.env.ELEVENLABS_OUTPUT_FORMAT || "mp3_44100_128";
@@ -25,12 +26,13 @@ if (!apiKey.startsWith("sk_")) {
   );
 }
 
-const stories = JSON.parse(await readFile(new URL("../data/stories.json", import.meta.url), "utf8"));
+const collections = await loadCollections(collectionArg);
+const allItems = collections.flatMap((collection) => collection.items);
 const selectedStories =
-  storyArg === "all" ? stories : stories.filter((story) => story.id === storyArg);
+  storyArg === "all" ? allItems : allItems.filter((story) => story.id === storyArg);
 
 if (selectedStories.length === 0) {
-  throw new Error(`No story found for "${storyArg}".`);
+  throw new Error(`No item found for "${storyArg}" in collection "${collectionArg}".`);
 }
 
 for (const story of selectedStories) {
@@ -97,6 +99,34 @@ function getStoryText(story) {
     return story.scriptParagraphs.join("\n\n");
   }
   return story.script;
+}
+
+async function loadCollections(collectionName) {
+  const definitions = [
+    {
+      name: "stories",
+      url: new URL("../data/stories.json", import.meta.url)
+    },
+    {
+      name: "natural-experiments",
+      url: new URL("../data/natural-experiments.json", import.meta.url)
+    }
+  ];
+  const selectedDefinitions =
+    collectionName === "all"
+      ? definitions
+      : definitions.filter((definition) => definition.name === collectionName);
+
+  if (selectedDefinitions.length === 0) {
+    throw new Error(`Unknown collection "${collectionName}". Use stories, natural-experiments, or all.`);
+  }
+
+  return Promise.all(
+    selectedDefinitions.map(async (definition) => ({
+      ...definition,
+      items: JSON.parse(await readFile(definition.url, "utf8"))
+    }))
+  );
 }
 
 function loadLocalEnv() {

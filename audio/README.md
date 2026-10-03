@@ -13,6 +13,7 @@ Expected files:
 - `harlequinade.mp3`
 - `of-salt-and-shore.mp3`
 - `bateson-metalogues.mp3`
+- `natural-experiments/korea-japan-christianity.mp3`
 
 Do not commit API keys or raw `.env` files. The browser should only receive the
 finished audio files.

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "korea-japan-christianity",
+    "title": "Why Did Christianity Grow Differently in South Korea and Japan?",
+    "author": "Natural experiment",
+    "lengthLabel": "investigation",
+    "focus": "Two wealthy East Asian allies look surprisingly alike, until the religion numbers split wide open.",
+    "framing": "Two nearby countries share a modern neighborhood, high development, deep ties to the United States, and long histories shaped by Buddhism and Confucian learning. So why did Christianity become much more common in South Korea than in Japan?",
+    "comparisonPoints": [
+      {
+        "label": "Modern development",
+        "detail": "World Bank data puts Japan and South Korea close in 2025 GDP per person, at about $35,951 and $36,227."
+      },
+      {
+        "label": "Everyday modern life",
+        "detail": "The World Bank reports similar life expectancy in 2024: about 84.0 years in Japan and 83.6 years in South Korea."
+      },
+      {
+        "label": "Postwar alliances",
+        "detail": "The U.S. State Department describes both relationships as enduring security alliances."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "Pew Research Center's 2023 East Asia survey found 32% of South Korean adults identify as Christian, compared with 2% in Japan."
+    },
+    "audioSrc": "audio/natural-experiments/korea-japan-christianity.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery.",
+      "Japan and South Korea sit close together on the map. Both are wealthy, highly educated, high-tech democracies. Both were shaped by older traditions from East Asia. Both became close allies of the United States after devastating wars.",
+      "According to the World Bank, their 2025 GDP per person was surprisingly close: about thirty-five thousand nine hundred dollars in Japan and thirty-six thousand two hundred dollars in South Korea. The World Bank also reports that life expectancy in 2024 was about eighty-four years in Japan and eighty-three point six years in South Korea.",
+      "So if we were only looking at modern life, we might expect their religious patterns to look fairly similar.",
+      "Then comes the reveal.",
+      "Pew Research Center's 2023 survey of East Asian adults found that thirty-two percent of adults in South Korea identified as Christian. In Japan, it was two percent.",
+      "That is not a small gap. That is a giant door opening between two countries that seemed, from a distance, to be walking down nearby roads.",
+      "So what happened?",
+      "First suspect: maybe America did it. But that answer breaks quickly. The United States has been deeply connected to both countries. The State Department describes Japan and South Korea as major security allies. If American influence alone explained the difference, Japan should not be sitting at two percent.",
+      "Second suspect: maybe wealth and technology make religion grow or shrink. But that does not solve it either. The two countries are both highly developed, and their GDP per person is now very close.",
+      "Third suspect: maybe East Asian cultures simply resist Christianity. But South Korea itself proves that answer is too simple.",
+      "Now the clues get more interesting.",
+      "In Japan, Christianity arrived early, grew for a time, then was crushed hard. Japan Society explains that under the Tokugawa shogunate, Christianity was outlawed for much of the Edo period. Christians were forced underground, and the faith became linked in the minds of rulers with foreign danger and possible conquest.",
+      "That kind of history can leave a deep groove. Even after the ban ended, Christianity did not get to enter public life as a normal, familiar institution for most families.",
+      "Korea followed a different path. Education About Asia describes Protestant missions in Korea as a three-part project: evangelism, education, and medicine. Churches were not only places to pray. They were connected to schools, hospitals, literacy, women's education, and the promise of modern tools.",
+      "Then Japanese colonial rule changed the meaning again. For some Koreans, Christianity could look less like surrendering to the West and more like joining a modern civil society that was not fully controlled by Japan.",
+      "That does not mean Christianity grew in Korea for one simple reason. Natural experiments almost never work like that.",
+      "The better answer is a bundle: timing, repression, schools, hospitals, nationalism, local church leadership, and the way old choices hardened into habits.",
+      "Same region. Similar modern prosperity. Very different religious outcome.",
+      "The question is not, what are Koreans like, and what are Japanese people like?",
+      "The better question is, what historical machine was each country standing inside, and what did that machine make easier to believe?"
+    ],
+    "sources": [
+      {
+        "label": "Pew Research Center, Religion and Spirituality in East Asian Societies",
+        "url": "https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/",
+        "note": "Used for the 2023 adult religious affiliation comparison: South Korea 32% Christian, Japan 2% Christian."
+      },
+      {
+        "label": "World Bank Data, Japan and Korea",
+        "url": "https://data.worldbank.org/?locations=JP-KR",
+        "note": "Used for GDP per capita, life expectancy, internet use, and other comparison statistics."
+      },
+      {
+        "label": "U.S. Department of State, U.S. Relations With Japan",
+        "url": "https://2021-2025.state.gov/u-s-relations-with-japan/",
+        "note": "Used for the U.S.-Japan alliance framing."
+      },
+      {
+        "label": "U.S. Department of State, U.S. Relations With the Republic of Korea",
+        "url": "https://2021-2025.state.gov/u-s-relations-with-the-republic-of-korea/",
+        "note": "Used for the U.S.-South Korea alliance framing."
+      },
+      {
+        "label": "Japan Society, Religion in Tokugawa Japan",
+        "url": "https://japansociety.org/news/religion-in-tokugawa-japan/",
+        "note": "Used for Japan's Christianity ban, Hidden Christians, and the association of Christianity with foreign threat."
+      },
+      {
+        "label": "Education About Asia, Christianity in Modern Korea",
+        "url": "https://www.educationaboutasia.org/article/id/722/",
+        "note": "Used for Korean Christianity's links to education, medicine, modernity, civil society, and nationalism."
+      }
+    ]
+  }
+]

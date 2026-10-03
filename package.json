@@ -15,7 +15,9 @@
     "audio:fille": "node scripts/generate-audio.mjs --story la-fille-mal-gardee",
     "audio:harlequinade": "node scripts/generate-audio.mjs --story harlequinade",
     "audio:salt-shore": "node scripts/generate-audio.mjs --story of-salt-and-shore",
-    "audio:metalogues": "node scripts/generate-audio.mjs --story bateson-metalogues"
+    "audio:metalogues": "node scripts/generate-audio.mjs --story bateson-metalogues",
+    "audio:natural:all": "node scripts/generate-audio.mjs --collection natural-experiments --story all",
+    "audio:korea-japan-christianity": "node scripts/generate-audio.mjs --collection natural-experiments --story korea-japan-christianity"
   },
   "engines": {
     "node": ">=20"

@@ -3,8 +3,17 @@ name: Generate ElevenLabs Audio
 on:
   workflow_dispatch:
     inputs:
+      collection:
+        description: Collection to record
+        required: true
+        default: stories
+        type: choice
+        options:
+          - stories
+          - natural-experiments
+          - all
       story:
-        description: Story to record
+        description: Item to record
         required: true
         default: all
         type: choice
@@ -19,6 +28,7 @@ on:
           - harlequinade
           - of-salt-and-shore
           - bateson-metalogues
+          - korea-japan-christianity
       voice_id:
         description: ElevenLabs voice ID
         required: true
@@ -43,7 +53,7 @@ jobs:
         run: npm run validate
 
       - name: Generate audio
-        run: node scripts/generate-audio.mjs --story "${{ inputs.story }}" --voice "${{ inputs.voice_id }}"
+        run: node scripts/generate-audio.mjs --collection "${{ inputs.collection }}" --story "${{ inputs.story }}" --voice "${{ inputs.voice_id }}"
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_MODEL_ID: eleven_v4
