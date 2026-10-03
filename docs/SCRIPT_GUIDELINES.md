@@ -1,11 +1,31 @@
 # Script Guidelines
 
-## Storybook Doorway
+## Interest Doorway
 
-Begin like a tale being told to someone who has never met the character before.
+Begin with the strongest reason to care.
 
-Before desire, pressure, theme, or plot mechanics, give the listener a simple
-human orientation:
+Sometimes that is a storybook doorway into a character. Sometimes it is the
+creator. Sometimes it is a title that sounds unfair, a scandal, a strange rule,
+an impossible choice, or a social pressure around the work.
+
+Do not prescribe the opening order. Choose the doorway that makes a young
+listener think, "Wait, that is interesting."
+
+Good doorway types:
+
+- Character first: a person with a vivid temperament, attachment, lack, or
+  problem.
+- Creator first: an artist whose life, reputation, risk, method, or mischief
+  makes the work matter.
+- Premise first: a strange setup that immediately raises questions.
+- Trouble first: a wager, secret, ban, disguise, test, curse, rule, mistake, or
+  unfair situation.
+- Title first: a title that itself sounds provocative, funny, mysterious, or
+  suspicious.
+- World first: a place or society with rules that create pressure.
+
+If character is the strongest doorway, give the listener a simple human
+orientation:
 
 - name
 - age or life stage, when known
@@ -25,6 +45,46 @@ Not:
 
 > Dorabella represents unstable romantic feeling.
 
+If creator, title, or context is the stronger doorway, keep it concrete:
+
+> Before Dorabella and Fiordiligi ever sing, there is Mozart: not a dusty
+> statue, but a dazzling performer-composer who had been famous since childhood
+> and knew how to make a room pay attention.
+
+Not:
+
+> Mozart interrogates Enlightenment ideals of performative fidelity.
+
+## Audrey And Paxten Lens
+
+For dialogue introductions, Audrey and Paxten are how the work becomes alive
+for a young listener.
+
+They are not hosts. Do not reintroduce them at the start of each piece. Assume
+they are already listening.
+
+Bring them in early, usually within the first two to four spoken turns, once
+there is something real to react to.
+
+Audrey helps with:
+
+- "Wait, how does that plan work?"
+- "Is that fair?"
+- "Who made that rule?"
+- "What is the mechanism?"
+- "That sounds suspicious."
+
+Paxten helps with:
+
+- "What would that feel like?"
+- "Why is that sadder than it first sounds?"
+- "What longing is hiding under the action?"
+- "How strange, beautiful, or uncanny is this?"
+- "What question is the work quietly asking?"
+
+Use the girls to expose the "so what." If they would have nothing interesting
+to say yet, the opening probably has not found its hook.
+
 ## Use Truthful Specificity
 
 Concrete is good. Inventing false facts is not.
@@ -43,14 +103,14 @@ Risky:
 
 ## Recommended Shape
 
-1. Character doorway: who they are, where they are, what ordinary life feels
-   like.
-2. Temperament: how they tend to meet the world.
-3. Attachment: who or what matters to them.
-4. Lack or wound: what is missing, hardened, hidden, or hoped for.
-5. One day everything changes.
-6. Story pressure arrives.
-7. End with the character question.
+1. Interest doorway: the strongest character, creator, premise, title, trouble,
+   world, or contradiction.
+2. Early Audrey/Paxten reaction, if using dialogue mode.
+3. Grounding: who, where, what kind of world, what kind of pressure.
+4. Human stake: what someone wants, fears, misunderstands, protects, or avoids.
+5. Turn: the test, invitation, shock, mistake, disguise, discovery, or loss.
+6. Complication: why this is not simple, fair, or easy to solve.
+7. Final question: the living question that makes the work worth entering.
 
 ## Preferred Length
 
@@ -62,11 +122,11 @@ piece become a plot summary.
 
 Use this tighter shape:
 
-1. Doorway: 2-3 sentences.
-2. Ordinary ache or attachment: 2-3 sentences.
-3. Change arrives: 1-2 sentences.
-4. Pressure and complication: 4-6 sentences.
-5. Final question: 1-2 sentences.
+1. Hook: 2-3 sentences or turns.
+2. Grounding: 2-3 sentences or turns.
+3. Pressure: 2-4 sentences or turns.
+4. Complication: 4-6 sentences or turns.
+5. Final question: 1-2 sentences or turns.
 
 Cut first:
 
@@ -78,11 +138,11 @@ Cut first:
 
 Keep:
 
-- the first clear character image
+- the first clear reason to care
 - one ordinary-world detail
 - the moment everything changes
 - the most emotionally charged complication
-- the final character question
+- the final living question
 
 ## Tone
 
