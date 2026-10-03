@@ -26,27 +26,289 @@
     },
     "audioSrc": "audio/natural-experiments/korea-japan-christianity.mp3",
     "scriptParagraphs": [
-      "Here is the mystery.",
-      "Japan and South Korea sit close together on the map. Both are wealthy, highly educated, high-tech democracies. Both were shaped by older traditions from East Asia. Both became close allies of the United States after devastating wars.",
-      "According to the World Bank, their 2025 GDP per person was surprisingly close: about thirty-five thousand nine hundred dollars in Japan and thirty-six thousand two hundred dollars in South Korea. The World Bank also reports that life expectancy in 2024 was about eighty-four years in Japan and eighty-three point six years in South Korea.",
-      "So if we were only looking at modern life, we might expect their religious patterns to look fairly similar.",
-      "Then comes the reveal.",
-      "Pew Research Center's 2023 survey of East Asian adults found that thirty-two percent of adults in South Korea identified as Christian. In Japan, it was two percent.",
-      "That is not a small gap. That is a giant door opening between two countries that seemed, from a distance, to be walking down nearby roads.",
-      "So what happened?",
-      "First suspect: maybe America did it. But that answer breaks quickly. The United States has been deeply connected to both countries. The State Department describes Japan and South Korea as major security allies. If American influence alone explained the difference, Japan should not be sitting at two percent.",
-      "Second suspect: maybe wealth and technology make religion grow or shrink. But that does not solve it either. The two countries are both highly developed, and their GDP per person is now very close.",
-      "Third suspect: maybe East Asian cultures simply resist Christianity. But South Korea itself proves that answer is too simple.",
-      "Now the clues get more interesting.",
-      "In Japan, Christianity arrived early, grew for a time, then was crushed hard. Japan Society explains that under the Tokugawa shogunate, Christianity was outlawed for much of the Edo period. Christians were forced underground, and the faith became linked in the minds of rulers with foreign danger and possible conquest.",
-      "That kind of history can leave a deep groove. Even after the ban ended, Christianity did not get to enter public life as a normal, familiar institution for most families.",
-      "Korea followed a different path. Education About Asia describes Protestant missions in Korea as a three-part project: evangelism, education, and medicine. Churches were not only places to pray. They were connected to schools, hospitals, literacy, women's education, and the promise of modern tools.",
-      "Then Japanese colonial rule changed the meaning again. For some Koreans, Christianity could look less like surrendering to the West and more like joining a modern civil society that was not fully controlled by Japan.",
-      "That does not mean Christianity grew in Korea for one simple reason. Natural experiments almost never work like that.",
-      "The better answer is a bundle: timing, repression, schools, hospitals, nationalism, local church leadership, and the way old choices hardened into habits.",
-      "Same region. Similar modern prosperity. Very different religious outcome.",
-      "The question is not, what are Koreans like, and what are Japanese people like?",
-      "The better question is, what historical machine was each country standing inside, and what did that machine make easier to believe?"
+      "Here is the mystery. Japan and South Korea are neighbors. Both are wealthy, high-tech democracies. Both became close allies of the United States after devastating wars.",
+      "According to the World Bank, their 2025 GDP per person was almost side by side: about thirty-five thousand nine hundred dollars in Japan and thirty-six thousand two hundred dollars in South Korea. Their life expectancy is close too.",
+      "So we have to ask the learning question: are these two countries comparable enough that a big difference should make us curious?",
+      "Pew Research Center found that in a 2023 survey, thirty-two percent of South Korean adults identified as Christian. In Japan, it was two percent. That is about one out of three adults in South Korea, compared with about one out of fifty in Japan.",
+      "Hmm. Interesting.",
+      "The easy guesses do not quite work. It is not just America, because America was deeply connected to both countries. It is not just wealth and technology, because both countries are highly developed. It is not simply East Asia resisting Christianity, because South Korea does not fit that story.",
+      "So we look for what Christianity seemed to be attached to in each place.",
+      "In Japan, Christianity arrived early and grew for a while. Then the Tokugawa shogunate, the warrior government that ruled Japan for more than two hundred years, treated it as dangerous. Christianity was banned. Christians had to hide. Imagine if joining a church made your family look like it was helping a foreign enemy.",
+      "In Korea, Protestant missionaries later became connected not only with preaching, but also with schools, hospitals, reading, women's education, and modern medicine. And when Korea was ruled by Japan, some Christian institutions could feel like places to learn, organize, and keep a little room to breathe.",
+      "So the difference is not that one people was naturally this way and another people was naturally that way. It is about what the same religion came wearing.",
+      "In one place: danger sign. In another place: schoolbag, hospital bag, and sometimes a flag of resistance.",
+      "The final question is: when a new idea arrives somewhere, what does it look like to the people opening the door?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Japan and South Korea are neighbors. Both are wealthy, high-tech democracies. Both became close allies of the United States after devastating wars."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So, in other words, this is not like comparing a teacup to a skyscraper.",
+        "audioText": "[prim, amused] So, in other words, this is not like comparing a teacup to a skyscraper."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. First we ask: are they comparable enough that a big difference should make us curious?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "According to the World Bank, their 2025 GDP per person was almost side by side: about thirty-five thousand nine hundred dollars in Japan and thirty-six thousand two hundred dollars in South Korea."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is closer than I would have guessed.",
+        "audioText": "[softly, surprised] That is closer than I would have guessed."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Their life expectancy is close too: about eighty-four years in Japan and eighty-three point six in South Korea."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Neighbors. Wealthy. Technological. Long lives. Allied with the United States. I am arranging the evidence in a neat pile.",
+        "audioText": "[precise] Neighbors. Wealthy. Technological. Long lives. Allied with the United States. I am arranging the evidence in a neat pile."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good. Now the reveal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Pew Research Center found that in a 2023 survey, thirty-two percent of South Korean adults identified as Christian. In Japan, it was two percent."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Does that difference sound significant?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Significant? It is practically waving a little flag and shouting, investigate me.",
+        "audioText": "[incredulous] Significant? It is practically waving a little flag and shouting, investigate me."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It means about one out of three adults in South Korea, compared with about one out of fifty in Japan."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "One out of three. And one out of fifty. How uncanny.",
+        "audioText": "[wondering] One out of three. And one out of fifty. How uncanny."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Pause there."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Hmm. Interesting."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now we test some guesses."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I shall begin with the obvious suspect: America.",
+        "audioText": "[decisive] I shall begin with the obvious suspect: America."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Fair. But America was deeply connected to both countries after the Second World War. So America alone cannot explain why one number is thirty-two and the other is two."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So that door opens a little, but not all the way.",
+        "audioText": "[softly] So that door opens a little, but not all the way."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Second guess: maybe rich, high-tech countries all become less religious in the same way."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "But these two rich, high-tech countries ended up with very different Christian populations."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So money and phones do not solve the mystery. Noted.",
+        "audioText": "[crisp] So money and phones do not solve the mystery. Noted."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Third guess: maybe East Asia simply leaves very little room for Christianity."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "But South Korea proves that answer is too easy."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then it is not just where the idea arrives. It is what happens to it after it arrives.",
+        "audioText": "[thoughtful] Then it is not just where the idea arrives. It is what happens to it after it arrives."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "So now we look at what Christianity seemed to be wearing in each place."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In Japan, Christianity arrived early and grew for a while. Then the Tokugawa shogunate treated it as dangerous."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I've heard of the Tokugawa. A shogunate was like a military government run by samurai warriors, yes?",
+        "audioText": "[eager, precise] I've heard of the Tokugawa. A shogunate was like a military government run by samurai warriors, yes?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. A shogun was the top military ruler. The Tokugawa family ruled Japan for more than two hundred years."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So not a small club with matching hats. A whole government.",
+        "audioText": "[primly] So not a small club with matching hats. A whole government."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A whole government. And that government banned Christianity. Christians had to hide."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Imagine if joining a church made your family look like it was helping a foreign enemy."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That would make the word Christian feel frightening before anyone even explained it.",
+        "audioText": "[quietly] That would make the word Christian feel frightening before anyone even explained it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The idea did not just arrive as a religion. To Japan's rulers, it could look like a danger sign."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Do you mean to say that the same idea can arrive wearing a different costume?",
+        "audioText": "[brightening] Do you mean to say that the same idea can arrive wearing a different costume?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Now compare Korea."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In Korea, Protestant missionaries later became connected not only with preaching, but also with schools, hospitals, reading, women's education, and modern medicine."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So Christianity could arrive with a schoolbag and a doctor's bag.",
+        "audioText": "[gently] So Christianity could arrive with a schoolbag and a doctor's bag."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. And when Korea was ruled by Japan, some Christian institutions could feel like places to learn, organize, and keep a little room to breathe."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So in Japan, danger sign. In Korea, schoolbag, hospital bag, and sometimes a flag of resistance.",
+        "audioText": "[with precision and excitement] So in Japan, danger sign. In Korea, schoolbag, hospital bag, and sometimes a flag of resistance."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "You would not expect the same religion to feel so different.",
+        "audioText": "[soft wonder] You would not expect the same religion to feel so different."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the natural experiment."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The answer is not that one country is naturally Christian and the other naturally not. It is about timing, fear, trust, schools, hospitals, colonial rule, and what people thought Christianity was attached to."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Let me consider that a bit.",
+        "audioText": "[softly] Let me consider that a bit."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Please do."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I think I have it. When a new idea arrives, we should ask what people think it is carrying.",
+        "audioText": "[satisfied] I think I have it. When a new idea arrives, we should ask what people think it is carrying."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the question to keep."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "When a new idea knocks on the door, does it look like a threat, a tool, a school, a hospital, a protest, or a promise?"
+      }
     ],
     "sources": [
       {

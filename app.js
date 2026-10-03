@@ -84,9 +84,7 @@ function selectItem(itemId) {
   storyTitle.textContent = selectedItem.title;
   storyFocus.textContent = selectedItem.focus;
   renderEvidence(selectedItem);
-  script.innerHTML = getScriptParagraphs(selectedItem)
-    .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
-    .join("");
+  script.innerHTML = renderScript(selectedItem);
   renderSources(selectedItem);
 }
 
@@ -127,6 +125,20 @@ function renderSources(item) {
     })
     .join("");
   sourcesPanel.hidden = false;
+}
+
+function renderScript(item) {
+  if (Array.isArray(item.dialogueSegments)) {
+    return item.dialogueSegments
+      .map((segment) => {
+        return `<p class="script-turn"><span class="speaker-label">${escapeHtml(segment.speaker)}</span>${escapeHtml(segment.text)}</p>`;
+      })
+      .join("");
+  }
+
+  return getScriptParagraphs(item)
+    .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+    .join("");
 }
 
 function getScriptParagraphs(item) {

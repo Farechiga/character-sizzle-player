@@ -33,6 +33,14 @@ on:
         description: ElevenLabs voice ID
         required: true
         default: JBFqnCBsd6RMkjVDRZzb
+      audrey_voice_id:
+        description: ElevenLabs Audrey voice ID for dialogue items
+        required: false
+        default: jkUnCsbErmJrcbWk1Hmh
+      paxten_voice_id:
+        description: ElevenLabs Paxten voice ID for dialogue items
+        required: false
+        default: XXphLKNRxvJ1Qa95KBhX
 
 permissions:
   contents: write
@@ -49,6 +57,13 @@ jobs:
         with:
           node-version: 22
 
+      - name: Set up ffmpeg
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+
       - name: Validate story data
         run: npm run validate
 
@@ -57,6 +72,9 @@ jobs:
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_MODEL_ID: eleven_v4
+          ELEVENLABS_DIALOGUE_MODEL_ID: eleven_v4
+          ELEVENLABS_AUDREY_VOICE_ID: ${{ inputs.audrey_voice_id }}
+          ELEVENLABS_PAXTEN_VOICE_ID: ${{ inputs.paxten_voice_id }}
           ELEVENLABS_OUTPUT_FORMAT: mp3_44100_128
 
       - name: Commit generated audio

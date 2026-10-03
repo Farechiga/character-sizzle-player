@@ -70,6 +70,13 @@ To record the natural experiment lane:
 npm run audio:natural:all
 ```
 
+Natural experiments can use ElevenLabs dialogue mode when an item includes
+`dialogueSegments`. Set `ELEVENLABS_NARRATOR_VOICE_ID`,
+`ELEVENLABS_AUDREY_VOICE_ID`, and `ELEVENLABS_PAXTEN_VOICE_ID` in your local
+env file to assign separate voices. If a dialogue script is longer than a single
+safe ElevenLabs request, the generator records it in chunks and combines the MP3
+with `ffmpeg`.
+
 `elevenlabs.local.env` and `.env` are both ignored by git.
 
 ### GitHub

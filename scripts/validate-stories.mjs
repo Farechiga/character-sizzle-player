@@ -83,4 +83,16 @@ function validateNaturalExperiment(item) {
       throw new Error(`Natural experiment ${item.id} has an invalid source.`);
     }
   }
+
+  if (item.dialogueSegments !== undefined) {
+    if (!Array.isArray(item.dialogueSegments) || item.dialogueSegments.length === 0) {
+      throw new Error(`Natural experiment ${item.id} has invalid dialogueSegments.`);
+    }
+
+    for (const segment of item.dialogueSegments) {
+      if (!segment.role || !segment.speaker || !segment.text) {
+        throw new Error(`Natural experiment ${item.id} has an invalid dialogue segment.`);
+      }
+    }
+  }
 }
