@@ -528,20 +528,151 @@
     "id": "harlequinade",
     "title": "Harlequinade",
     "author": "Marius Petipa / Riccardo Drigo",
-    "lengthLabel": "character intro",
-    "focus": "Columbine knows whom she loves, even when everyone around her tries to dance her toward someone else.",
+    "lengthLabel": "dialogue intro",
+    "focus": "Columbine is locked away from the boy she loves, until a bright old comedy starts breaking the rules.",
     "audioSrc": "audio/harlequinade.mp3",
     "scriptParagraphs": [
-      "Columbine was a young woman in a painted little world where doors opened fast, masks smiled brightly, and everyone's business could turn into a dance.",
-      "She lived under the eye of her father, Cassandre, who believed love should be arranged neatly and paid for well.",
-      "He has chosen Leandre, a rich older suitor with manners, money, and no claim on Columbine's heart.",
-      "Columbine has chosen Harlequin.",
-      "Harlequin owns very little except courage, mischief, and the kind of joy that makes a room wake up. He loves Columbine with his whole quick, laughing self.",
-      "Cassandre locks doors. Pierrot is told to guard them. Leandre keeps arriving as if a wedding can be ordered like dinner.",
-      "But Columbine is not a prize to be handed across a room.",
-      "With Pierrette's help, with secret signals and sudden escapes, the lovers turn every rule into a chase and every chase into a dance.",
-      "Harlequinade is a bright comedy, but its heart is simple: a girl knows whom she loves, and the world keeps trying to speak louder than she does.",
-      "The question is whether laughter, nerve, and a little stage magic can free Columbine before her future is sold to the wrong man."
+      "Harlequinade opens like a painted toy theater: bright costumes, quick doors, masks, tricks, and people who seem to turn every argument into a dance.",
+      "At the center is Columbine, whose father Cassandre has decided she should marry Leandre, a rich older suitor.",
+      "Columbine loves Harlequin instead. Harlequin has almost no money, but he has speed, courage, mischief, and the sort of joy that refuses to stay outside.",
+      "Cassandre orders Pierrot to guard Columbine and keep Harlequin away. But Pierrot's wife, Pierrette, is on the lovers' side.",
+      "Then a Good Fairy gives Harlequin a magic slapstick, and the locked-down little world begins to tilt toward escape.",
+      "Harlequinade is a ballet comedy built from commedia dell'arte: old stage characters who move like jokes, schemes, and wishes come alive.",
+      "But under the sparkle is a simple question: if Columbine knows whom she loves, why should everyone else get to choose?",
+      "The question is whether quick feet, brave friends, and a little stage magic can open the door before Columbine's future is handed to the wrong man."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Harlequinade opens like a painted toy theater: bright costumes, quick doors, masks, tricks, and people who seem to turn every argument into a dance."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds like a little world made of bells and trapdoors.",
+        "audioText": "[soft delight] That sounds like a little world made of bells and trapdoors."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. It comes from commedia dell'arte, an old comedy tradition where familiar characters wear their troubles almost like masks."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Masks are efficient. You can tell who is causing the problem immediately.",
+        "audioText": "[crisp, amused] Masks are efficient. You can tell who is causing the problem immediately."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In this case, Audrey, the problem begins with Cassandre, Columbine's father. He wants her to marry Leandre, a rich older suitor."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Ah. So his plan is money first, daughter second.",
+        "audioText": "[prim, disapproving] Ah. So his plan is money first, daughter second."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. But Columbine loves Harlequin, who has almost no money and absolutely no intention of disappearing politely."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "I like that. Love arriving in bright clothes, refusing to be sensible.",
+        "audioText": "[gently charmed] I like that. Love arriving in bright clothes, refusing to be sensible."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Harlequin is quick, witty, and impossible to keep still. He turns the stage into a chase, and the chase into dancing."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "How does Cassandre respond? I suspect badly.",
+        "audioText": "[dryly] How does Cassandre respond? I suspect badly."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Very badly. Cassandre orders Pierrot to guard Columbine and keep Harlequin away."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the daughter is being guarded like a locked cupboard. Unacceptable.",
+        "audioText": "[firmly] So the daughter is being guarded like a locked cupboard. Unacceptable."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Quite unacceptable. But Pierrot's wife, Pierrette, quietly takes the lovers' side."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Every locked story needs someone who knows where the key is.",
+        "audioText": "[hushed, pleased] Every locked story needs someone who knows where the key is."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. And then the Good Fairy gives Harlequin a magic slapstick, so the rules of the house start wobbling."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A magical stick that helps defeat bad marriage planning. Highly specialized, but useful.",
+        "audioText": "[bright, exact] A magical stick that helps defeat bad marriage planning. Highly specialized, but useful."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the fun of Harlequinade. It is a ballet of skips, tricks, balcony moments, sudden escapes, and wedding joy."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then the bright part is not empty. Columbine is trying to walk through the door she chose.",
+        "audioText": "[softly] Then the bright part is not empty. Columbine is trying to walk through the door she chose."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Under the sparkle is a simple question: if Columbine knows whom she loves, why should everyone else get to choose?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question is whether quick feet, brave friends, and a little stage magic can open the door before Columbine's future is handed to the wrong man."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Marius Petipa Society, Harlequinade",
+        "url": "https://petipasociety.com/harlequinade/",
+        "note": "Used for the original Petipa/Drigo credit, 1900 premiere context, commedia dell'arte basis, and plot summary with Cassandre, Leandre, Pierrot, Pierrette, the Good Fairy, and the magic slapstick."
+      },
+      {
+        "label": "The George Balanchine Trust, Harlequinade",
+        "url": "https://www.balanchine.com/Ballet/harlequinade",
+        "note": "Used for the commedia dell'arte explanation, Balanchine's 1965 version, and a concise plot summary."
+      },
+      {
+        "label": "The George Balanchine Foundation Catalogue, Harlequinade 1965",
+        "url": "https://balanchine.org/balanchine-catalogue/catalogue-of-works/351-harlequinade-1965/",
+        "note": "Used for character roles, Act I/Act II structure, and Balanchine's connection to Petipa's Les Millions d'Arlequin."
+      },
+      {
+        "label": "The Australian Ballet, Harlequinade",
+        "url": "https://australianballet.com.au/performances/harlequinade",
+        "note": "Used for the Ratmansky/Petipa revival framing and accessible production synopsis."
+      }
     ]
   },
   {
