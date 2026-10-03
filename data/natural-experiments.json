@@ -54,13 +54,13 @@
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "So, in other words, this is not like comparing a teacup to a skyscraper.",
-        "audioText": "[prim, amused] So, in other words, this is not like comparing a teacup to a skyscraper."
+        "text": "So this is a proper comparison, not just two random countries tossed into the same basket.",
+        "audioText": "[prim, checking] So this is a proper comparison, not just two random countries tossed into the same basket."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Exactly. First we ask: are they comparable enough that a big difference should make us curious?"
+        "text": "Yes, Audrey. First we ask: are they comparable enough that a big difference should make us curious?"
       },
       {
         "role": "narrator",
@@ -183,7 +183,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put."
+        "text": "Beautifully put, Paxten."
       },
       {
         "role": "narrator",
@@ -204,7 +204,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes. A shogun was the top military ruler. The Tokugawa family ruled Japan for more than two hundred years."
+        "text": "Yes, Audrey. A shogun was the top military ruler. The Tokugawa family ruled Japan for more than two hundred years."
       },
       {
         "role": "audrey",
