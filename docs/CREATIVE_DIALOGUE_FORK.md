@@ -6,6 +6,10 @@ The goal is to keep the character-driven teaser, but let Audrey and Paxten help
 the listener notice what matters. They should not become hosts who explain the
 whole book. They are thinking partners who interrupt at the right moments.
 
+Do not introduce Audrey and Paxten at the start of each piece. The opening
+belongs to the characters inside the work. Audrey and Paxten should enter only
+after the listener has met the main character, setting, and first pressure.
+
 ## Roles
 
 ## Narrator
@@ -72,19 +76,21 @@ Good Paxten lines often begin with:
 
 Use this pattern:
 
-1. Narrator opens with the character and ordinary world.
-2. Audrey questions the plan, motive, or logic.
-3. Narrator clarifies without overexplaining.
-4. Paxten reframes the feeling.
-5. Narrator returns to the story and raises the stakes.
-6. Audrey restates the mechanism precisely.
-7. Paxten gives the emotional echo.
-8. Narrator ends with the character question.
+1. Narrator opens with the work's character and ordinary world.
+2. Narrator names the first pressure or turn.
+3. Audrey questions the plan, motive, or logic.
+4. Narrator clarifies without overexplaining.
+5. Paxten reframes the feeling.
+6. Narrator returns to the story and raises the stakes.
+7. Audrey restates the mechanism precisely.
+8. Paxten gives the emotional echo.
+9. Narrator ends with the character question.
 
 ## Guardrails
 
 - Keep the main character as the center of gravity.
 - Use Audrey and Paxten for 25-35% of the spoken turns, not half the piece.
+- Do not spend the opening explaining who Audrey and Paxten are.
 - Do not make the girls cute filler.
 - Do not let them spoil the ending.
 - Let them ask what a smart young listener would actually ask.
