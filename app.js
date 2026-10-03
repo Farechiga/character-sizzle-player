@@ -31,7 +31,7 @@ const sourcesPanel = document.querySelector("#sources-panel");
 const sourceList = document.querySelector("#source-list");
 
 let collections = {};
-let activeMode = "stories";
+let activeMode = "natural-experiments";
 let selectedItem = null;
 
 async function loadCollections() {

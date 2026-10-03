@@ -70,55 +70,6 @@
     ]
   },
   {
-    "id": "parent-trap-1961",
-    "title": "The Parent Trap",
-    "author": "Walt Disney Productions",
-    "lengthLabel": "character intro",
-    "focus": "Two girls meet at summer camp and discover the family secret hiding in their own faces.",
-    "audioSrc": "audio/parent-trap-1961.mp3",
-    "scriptParagraphs": [
-      "Susan Evers was a girl from California, raised on sunshine, horses, and the wide-open life of her father's ranch.",
-      "Sharon McKendrick was a girl from Boston, raised with good manners, careful clothes, and a mother who knew how to make a room feel orderly.",
-      "They had never met. They did not know each other's names. They did not even know the same family story.",
-      "Then, one summer, they arrive at the same camp.",
-      "At first, they are enemies. Susan is bold where Sharon is polished. Sharon is proper where Susan is untamed. Each girl looks at the other and sees someone impossible to live with.",
-      "Then they look closer.",
-      "The same eyes. The same face. The same birthday. The same missing half of a life neither one has ever been told in full.",
-      "Susan and Sharon are twins.",
-      "Long ago, their parents separated, and each parent took one daughter. Susan grew up with their father, Mitch. Sharon grew up with their mother, Maggie. The girls have spent their whole lives missing someone they did not know existed.",
-      "So they make a plan only two brave, lonely, furious sisters could make.",
-      "They will switch places.",
-      "Susan will go to Boston and meet the mother she has never known. Sharon will go to California and meet the father she has only imagined. And if the plan works, their parents may have to see each other again too.",
-      "But secrets are tricky things. Grown-ups have old wounds. A new fiancee is already standing too close to the future. And two girls pretending to be each other must learn very quickly what the other one's heart has been carrying.",
-      "The Parent Trap begins as a prank at summer camp.",
-      "But underneath the mischief is a simple wish: two sisters want one family, not two halves of one.",
-      "The question is whether a pair of girls can outsmart the hurt that split their world in two."
-    ]
-  },
-  {
-    "id": "little-fugitive-1953",
-    "title": "Little Fugitive",
-    "author": "Ray Ashley / Morris Engel / Ruth Orkin",
-    "lengthLabel": "character intro",
-    "focus": "A seven-year-old boy runs to Coney Island with a secret too large for him to carry.",
-    "audioSrc": "audio/little-fugitive-1953.mp3",
-    "scriptParagraphs": [
-      "Joey Norton was a seven-year-old boy in Brooklyn, small enough to believe big things and stubborn enough to want to see the world for himself.",
-      "He loved horses, cowboy games, and the kind of adventure that seemed to be waiting just beyond the block.",
-      "His older brother Lennie was turning twelve, old enough to want freedom and young enough to be cruel when Joey got in the way.",
-      "One summer day, their mother has to leave, and Lennie is stuck watching his little brother instead of going to Coney Island with his friends.",
-      "So the older boys play a prank.",
-      "They make Joey believe he has shot Lennie.",
-      "Joey runs.",
-      "With a pocketful of money and a heart full of panic, he rides out to Coney Island, where the whole world seems louder, brighter, and bigger than he is.",
-      "There are rides, games, hot dogs, crowds, bottles to collect, and pony rides that feel like the one safe place in the middle of the noise.",
-      "But Joey is still a little boy alone.",
-      "And while he wanders through the wonder of the boardwalk, Lennie begins to understand what his joke has done.",
-      "Little Fugitive is a story about childhood seen close up: how fear can feel enormous, how freedom can feel lonely, and how a city can become an adventure when no grown-up is holding your hand.",
-      "The question is whether Joey can find his way home before the game becomes something neither brother can undo."
-    ]
-  },
-  {
     "id": "la-fille-mal-gardee",
     "title": "La Fille mal gardee",
     "author": "Jean Dauberval / Frederick Ashton",
@@ -200,6 +151,164 @@
       "It loops. It doubles back. It changes shape when two people are brave enough to keep asking.",
       "These are conversations about learning, play, confusion, rules, and the strange patterns that connect living things.",
       "The question is whether a father can teach his daughter how to think, or whether she has been teaching him all along."
+    ]
+  },
+  {
+    "id": "mixed-up-files-frankweiler",
+    "title": "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
+    "author": "E. L. Konigsburg",
+    "lengthLabel": "dialogue intro",
+    "focus": "Claudia Kincaid does not want to disappear. She wants to come home changed.",
+    "audioSrc": "audio/mixed-up-files-frankweiler.mp3",
+    "scriptParagraphs": [
+      "Audrey likes to test every plan for hidden cracks. Paxten listens for the feeling underneath the plan. Today, they are stepping into a story about a girl who runs away with a plan.",
+      "Claudia Kincaid is tired of being ordinary in her own family. She does not want to run into danger. She wants to run into significance.",
+      "So she chooses the Metropolitan Museum of Art in New York City: not a train station, not a faraway house, but a grand indoor kingdom of marble floors, old beds, guards, fountains, and secrets.",
+      "She brings her younger brother Jamie because he has money, because he is useful, and because a perfect plan is easier when someone else can help carry it.",
+      "At first, the adventure seems deliciously practical. They hide, count coins, dodge attention, and make a home where no children are supposed to live.",
+      "Then Claudia sees a statue called Angel, and everything changes. The experts are uncertain. Could this beautiful little statue have been made by Michelangelo?",
+      "Now Claudia is not only hiding from home. She is hunting for a secret large enough to make her feel different inside.",
+      "Somewhere beyond the museum waits Mrs. Basil E. Frankweiler, a woman with files, secrets, and a way of understanding that children do not always run away because they want to be lost.",
+      "The question is whether Claudia can go home with something no one else can see, and no one else can take away."
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Audrey likes to test every plan for hidden cracks. Paxten listens for the feeling underneath the plan. Today, they are stepping into a story about a girl who runs away with a plan.",
+        "audioText": "[warmly] Audrey likes to test every plan for hidden cracks. Paxten listens for the feeling underneath the plan. Today, they are stepping into a story about a girl who runs away with a plan."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "With a plan? That is already not ordinary running away.",
+        "audioText": "[alert, precise] With a plan? That is already not ordinary running away."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. Claudia Kincaid is not trying to vanish into chaos. She is tired of being ordinary in her own family."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Maybe she does not want to disappear. Maybe she wants to come back different.",
+        "audioText": "[softly] Maybe she does not want to disappear. Maybe she wants to come back different."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Claudia wants her family to notice her, but she also wants proof that she is more than the chores and routines waiting at home."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So where does this highly organized rebel go?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "To the Metropolitan Museum of Art in New York City."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A museum. Of course. Running away, but with bathrooms, masterpieces, and a roof.",
+        "audioText": "[delighted, prim] A museum. Of course. Running away, but with bathrooms, masterpieces, and a roof."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Not a train station. Not a faraway house. A grand indoor kingdom of marble floors, old beds, guards, fountains, and secrets."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds like hiding inside a treasure chest.",
+        "audioText": "[dreamy] That sounds like hiding inside a treasure chest."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Claudia brings her younger brother Jamie because he has money, because he is useful, and because even the most private adventure needs someone to argue with."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Practical. Slightly bossy. Financially strategic. I respect the structure.",
+        "audioText": "[approving] Practical. Slightly bossy. Financially strategic. I respect the structure."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "At first, the adventure is deliciously practical. They hide. They count coins. They dodge attention. They make a home where no children are supposed to live."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then Claudia sees a statue called Angel."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Something changes there, doesn't it?",
+        "audioText": "[quietly] Something changes there, doesn't it?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It does. The experts are uncertain. Could this beautiful little statue have been made by Michelangelo?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Now the running-away plan has become an investigation.",
+        "audioText": "[brightening] Now the running-away plan has become an investigation."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Claudia is no longer only hiding from home. She is hunting for a secret large enough to make her feel different inside."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "A secret can feel like a room of your own.",
+        "audioText": "[soft wonder] A secret can feel like a room of your own."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And somewhere beyond the museum waits Mrs. Basil E. Frankweiler, a woman with files, secrets, and a very sharp idea of what children are really looking for."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the question is not simply whether Claudia gets away with it.",
+        "audioText": "[precise] So the question is not simply whether Claudia gets away with it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. The question is whether Claudia can go home with something no one else can see, and no one else can take away."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Simon & Schuster, official publisher page",
+        "url": "https://www.simonandschuster.com/books/From-the-Mixed-Up-Files-of-Mrs-Basil-E-Frankweiler/E-L-Konigsburg/9780689205866",
+        "note": "Used for the core setup: Claudia runs away to the Metropolitan Museum of Art, brings Jamie, and becomes absorbed in the mystery of the statue."
+      },
+      {
+        "label": "Metropolitan Museum of Art, A Mixed-Up Journey",
+        "url": "https://www.metmuseum.org/-/media/Files/Learn/Family%20Map%20and%20Guides/The%20Mixed%20Up%20Files%20Issue.pdf",
+        "note": "Used for the museum connection and Claudia and Jamie's stay at The Met."
+      },
+      {
+        "label": "American Library Association, Newbery Medal page",
+        "url": "https://www.ala.org/winner/mixed-files-mrs-basil-e-frankweiler",
+        "note": "Used for award/source grounding."
+      }
     ]
   }
 ]

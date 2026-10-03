@@ -14,12 +14,11 @@ secrets.
 - Charles Dickens, `A Christmas Carol`
 - Charles Dickens, `A Tale of Two Cities`
 - Mozart and Da Ponte, `Cosi fan tutte`
-- Walt Disney Productions, `The Parent Trap`
-- Ray Ashley, Morris Engel, and Ruth Orkin, `Little Fugitive`
 - Jean Dauberval and Frederick Ashton, `La Fille mal gardee`
 - Marius Petipa and Riccardo Drigo, `Harlequinade`
 - Annet Schaap, `Of Salt and Shore`
 - Gregory Bateson, `Metalogues`
+- E. L. Konigsburg, `From the Mixed-Up Files of Mrs. Basil E. Frankweiler`
 
 ## Natural Experiments Included
 
@@ -40,12 +39,11 @@ The web player expects:
 - `audio/christmas-carol.mp3`
 - `audio/tale-of-two-cities.mp3`
 - `audio/cosi-fan-tutte.mp3`
-- `audio/parent-trap-1961.mp3`
-- `audio/little-fugitive-1953.mp3`
 - `audio/la-fille-mal-gardee.mp3`
 - `audio/harlequinade.mp3`
 - `audio/of-salt-and-shore.mp3`
 - `audio/bateson-metalogues.mp3`
+- `audio/mixed-up-files-frankweiler.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
